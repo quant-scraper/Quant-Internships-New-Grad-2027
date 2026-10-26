@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [AI Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**459** internships · **249** graduate roles · **25** programmes & insight weeks · updated 2026-10-26 05:19 UTC
+**460** internships · **249** graduate roles · **25** programmes & insight weeks · updated 2026-10-26 11:15 UTC
 
 ## Where the roles are
 
@@ -12,17 +12,17 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---:|---:|---:|---:|
 | Trading | [64](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [56](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [33](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [146](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [119](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [75](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [228](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [126](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [101](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [69](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [268](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Software & technology | [127](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [101](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [69](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [269](https://quant-scraper.com/quant?for=students&discipline=technology) |
 | Operations, risk & other | [57](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [23](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [15](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [91](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (459)
+- [Internships](#internships) (460)
   - [Trading](#trading--internships) (85)
   - [Quantitative research](#quantitative-research--internships) (147)
-  - [Software & technology](#software--technology--internships) (159)
+  - [Software & technology](#software--technology--internships) (160)
   - [Operations, risk & other](#operations-risk--other--internships) (68)
 - [Graduate roles](#graduate-roles) (249)
   - [Trading](#trading--graduate-roles) (59)
@@ -516,10 +516,12 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>General</b> (10)</summary>
+<summary><b>General</b> (11)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
+| **[Qube Research & Technologies](https://quant-scraper.com/companies/qrt)** | [2027 Internship - Technology](https://www.qube-rt.com/careers/job?gh_jid=8870423002) | New York | Oct 26 |
+| **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101) | Sofia | Oct 26 |
 | **[Optiver](https://quant-scraper.com/companies/optiver)** | [FutureFocus India - Technology 2026](https://www.optiver.com/join-us/jobs/events/mumbai/futurefocus-india-technology-2026/) | Mumbai | Oct 19 |
 | **[Five Rings](https://quant-scraper.com/companies/fiverings)** | [Summer 2027 - Trading Operations Engineer Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) | New York | Sep 15 |
 | **[Virtu Financial](https://quant-scraper.com/companies/virtu)** | [2027 Internship - Core Operations Engineer](https://job-boards.greenhouse.io/virtu/jobs/6329460002) | Singapore | Jul 30 |
@@ -529,7 +531,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8700980002/) | London | — |
 | ↳ | [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8620505002/) | Hong Kong | — |
 | ↳ | [Trading Desk Operations Engineer](https://www.janestreet.com/join-jane-street/position/8621450002/) | New York | — |
-| **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Technology Summer Internship](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978895101) | Sofia | — |
 
 </details>
 
