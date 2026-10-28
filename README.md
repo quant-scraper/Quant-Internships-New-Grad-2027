@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**458** internships · **247** graduate roles · **24** programmes & insight weeks · updated 2026-10-27 21:21 UTC
+**458** internships · **247** graduate roles · **24** programmes & insight weeks · updated 2026-10-28 02:18 UTC
 
 ## Where the roles are
 
@@ -393,7 +393,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8007788) | Chicago | Aug 18 |
 | ↳ | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Aug 14 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) | Chicago | Jul 14 |
-| **Susquehanna International Group** | [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11169) | Hong Kong | Jul 6 |
+| **Susquehanna International Group** | [Trading System Engineering Internship (C++): Summer 2027](https://careers.sig.com/jobs/11169) | Hong Kong | Jul 6 |
 | ↳ | [Trading System Engineering Internship: Summer 2027](https://careers.sig.com/jobs/10837) | Bala Cynwyd | Apr 23 |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [Systems Administrator Industry Placement Year (London)](https://www.deshaw.com/careers/Systems-Administrator-Industry-Placement-Year-London-5922) | London | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Leadership Rotation Network Intern](https://www.drw.com/work-at-drw/listings/leadership-rotation-network-intern-3455003) | London | — |
