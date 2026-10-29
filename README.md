@@ -4,14 +4,14 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**449** internships · **249** graduate roles · **24** programmes & insight weeks · updated 2026-10-28 21:40 UTC
+**449** internships · **248** graduate roles · **24** programmes & insight weeks · updated 2026-10-29 02:28 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Trading | [63](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [53](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [32](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [141](https://quant-scraper.com/quant?for=students&discipline=trading) |
-| Quantitative research | [120](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [74](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [228](https://quant-scraper.com/quant?for=students&discipline=research) |
+| Quantitative research | [119](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [74](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [227](https://quant-scraper.com/quant?for=students&discipline=research) |
 | Software & technology | [124](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [98](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [68](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [263](https://quant-scraper.com/quant?for=students&discipline=technology) |
 | Operations, risk & other | [58](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [21](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [15](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [90](https://quant-scraper.com/quant?for=students&discipline=other) |
 
@@ -24,9 +24,9 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--internships) (146)
   - [Software & technology](#software--technology--internships) (155)
   - [Operations, risk & other](#operations-risk--other--internships) (67)
-- [Graduate roles](#graduate-roles) (249)
+- [Graduate roles](#graduate-roles) (248)
   - [Trading](#trading--graduate-roles) (58)
-  - [Quantitative research](#quantitative-research--graduate-roles) (81)
+  - [Quantitative research](#quantitative-research--graduate-roles) (80)
   - [Software & technology](#software--technology--graduate-roles) (102)
   - [Operations, risk & other](#operations-risk--other--graduate-roles) (8)
 - [Programmes & insight weeks](#programmes--insight-weeks) (24)
@@ -664,7 +664,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 ### Quantitative research — graduate roles
 
 <details open>
-<summary><b>Quant</b> (60)</summary>
+<summary><b>Quant</b> (59)</summary>
 
 | Company | Role | Location | Posted |
 |---|---|---|---|
@@ -727,7 +727,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Quantitative Researcher (Full-Time - PhD+)](https://job-boards.greenhouse.io/radixuniversity/jobs/7841874002) | Chicago, New York +1 | — |
 | **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [Junior Quant Researcher](https://www.squarepoint-capital.com/opportunity-details?id=239376&gh_jid=239376) | London, New York +7 | — |
 | **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [Quantitative Researcher - Full-Time Campus Hire](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946) | New York | — |
-| ↳ | [Quantitative Researcher - Systematic Macro Portfolio Management](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Systematic-Macro-Portfolio-Management/13975) | New York | — |
 
 </details>
 
