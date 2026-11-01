@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**438** internships · **240** graduate roles · **25** programmes & insight weeks · updated 2026-11-01 11:51 UTC
+**438** internships · **240** graduate roles · **25** programmes & insight weeks · updated 2026-11-01 21:12 UTC
 
 ## Where the roles are
 
@@ -838,7 +838,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
-| **[Millennium](https://quant-scraper.com/companies/millennium)** | [Quantitative Analyst - Quant Analyst Program](https://career.mlp.com/careers/job/755959471860) | New York | — | Oct 19 |
+| **[Millennium](https://quant-scraper.com/companies/millennium)** | [Quantitative Analyst - Quant Analyst Program](https://career.mlp.com/careers/job/755959471860) | New York | USD 160k–250k | Oct 19 |
 | **[Marshall Wace](https://quant-scraper.com/companies/marshallwace)** | [Quant Developer - Quant Associate Programme - 2027](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002) | London, New York | — | Oct 13 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Quantitative Strategy Developer - New Grad](https://careers.sig.com/jobs/11321) | Bala Cynwyd | — | Aug 19 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Quant Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) | Chicago | USD 200k | — |
@@ -920,7 +920,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
-| **[Bridgewater Associates](https://quant-scraper.com/companies/bridgewater)** | [Corporate Concierge](https://job-boards.greenhouse.io/bridgewater89/jobs/8919645002) | New York, Westport | General | USD 80k–95k | Oct 30 |
+| **[Bridgewater Associates](https://quant-scraper.com/companies/bridgewater)** | [Corporate Concierge](https://job-boards.greenhouse.io/bridgewater89/jobs/8919645002) | New York, Westport | General | USD 80k–95k | Nov 1 |
 | ↳ | [Associate, Client Service Operations](https://job-boards.greenhouse.io/bridgewater89/jobs/8394740002) | Westport | General | USD 135k–200k | Oct 21 |
 | ↳ | [Portfolio Associate](https://job-boards.greenhouse.io/bridgewater89/jobs/8811654002) | Westport | General | USD 150k–200k | Sep 29 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Operations Analyst Program: August 2027 Start](https://careers.sig.com/jobs/11273) | Bala Cynwyd | General | — | Sep 17 |
