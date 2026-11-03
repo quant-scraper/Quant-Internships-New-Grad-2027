@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**434** internships · **233** graduate roles · **24** programmes & insight weeks · updated 2026-11-03 12:06 UTC
+**434** internships · **231** graduate roles · **26** programmes & insight weeks · updated 2026-11-03 12:49 UTC
 
 ## Where the roles are
 
@@ -12,7 +12,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---:|---:|---:|---:|
 | Trading | [62](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [47](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [30](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [131](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [118](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [74](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [65](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [224](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [119](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [89](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [66](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [247](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Software & technology | [119](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [64](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [247](https://quant-scraper.com/quant?for=students&discipline=technology) |
 | Operations, risk & other | [56](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [22](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [15](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [89](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
@@ -24,15 +24,15 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--internships) (145)
   - [Software & technology](#software--technology--internships) (146)
   - [Operations, risk & other](#operations-risk--other--internships) (67)
-- [Graduate roles](#graduate-roles) (233)
+- [Graduate roles](#graduate-roles) (231)
   - [Trading](#trading--graduate-roles) (52)
   - [Quantitative research](#quantitative-research--graduate-roles) (78)
-  - [Software & technology](#software--technology--graduate-roles) (95)
+  - [Software & technology](#software--technology--graduate-roles) (93)
   - [Operations, risk & other](#operations-risk--other--graduate-roles) (8)
-- [Programmes & insight weeks](#programmes--insight-weeks) (24)
+- [Programmes & insight weeks](#programmes--insight-weeks) (26)
   - [Trading](#trading--programmes--insight-weeks) (3)
   - [Quantitative research](#quantitative-research--programmes--insight-weeks) (1)
-  - [Software & technology](#software--technology--programmes--insight-weeks) (6)
+  - [Software & technology](#software--technology--programmes--insight-weeks) (8)
   - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (14)
 
 ## Internships
@@ -747,14 +747,12 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 ### Software & technology — graduate roles
 
 <details open>
-<summary><b>Software</b> (43)</summary>
+<summary><b>Software</b> (41)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
 | **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Software Engineer - Campus Graduate Program - IIT Hyderabad](https://boards.greenhouse.io/point72/jobs/8893936002?gh_jid=8893936002) | Bangalore | — | Nov 3 |
-| ↳ | [2027 Software Engineer - Campus Graduate Program - IIT Kanpur](https://boards.greenhouse.io/point72/jobs/8893939002?gh_jid=8893939002) | Bangalore | — | Nov 3 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Software Engineer, Early Career](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) | Chicago | USD 200k | Nov 2 |
-| **Point72** | [2027 Software Engineer - Campus Graduate Program - IIT BHU](https://boards.greenhouse.io/point72/jobs/8893940002?gh_jid=8893940002) | Bangalore | — | Nov 2 |
 | **[Tower Research Capital](https://quant-scraper.com/companies/tower)** | [Software Engineer, C++ - Graduate Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8245433) | Hong Kong, Singapore | — | Oct 30 |
 | **[Aquatic Capital Management](https://quant-scraper.com/companies/aquatic)** | [Software Engineer, Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | Chicago, New York | USD 150k–200k | Oct 26 |
 | **IMC** | [C++ Software Engineer, Early Careers](https://job-boards.eu.greenhouse.io/imc/jobs/4945420101) | Amsterdam | — | Oct 13 |
@@ -938,6 +936,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Maven Securities](https://quant-scraper.com/companies/maven)** | [Women in Technology Spring Week 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8230037) | London | General | — | Nov 3 |
+| **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Point72 Academy Spring Insight Programme - UK](https://boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002) | London | Software | — | Sep 29 |
 | **[Flow Traders](https://quant-scraper.com/companies/flowtraders)** | [Talent Pool: Trading Systems Engineer](https://job-boards.greenhouse.io/flowtraders/jobs/8026227) | Chicago, New York | Systems | USD 160k–215k | Aug 24 |
 | **[AlphaGrep](https://quant-scraper.com/companies/alphagrep)** | [General Technology Submissions: Developers, Devops, Systems, FPGA](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/5149170002) | — | Hardware | — | Dec 29, 2025 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [General Submission](https://jobs.ashbyhq.com/old-mission-capital/f8350462-cdb1-423d-8146-860b5b05217d) | Chicago | General | — | Apr 28, 2021 |
