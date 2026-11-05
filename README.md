@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**435** internships · **231** graduate roles · **29** programmes & insight weeks · updated 2026-11-05 13:14 UTC
+**435** internships · **231** graduate roles · **29** programmes & insight weeks · updated 2026-11-05 13:49 UTC
 
 ## Where the roles are
 
@@ -359,7 +359,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Squarepoint Capital** | [Intern Software Developer - London - 2027](https://www.squarepoint-capital.com/opportunity-details?id=7231006&gh_jid=7231006) | London | — | — |
 | ↳ | [Intern Software Developer - Montreal - 2027](https://www.squarepoint-capital.com/opportunity-details?id=7905463&gh_jid=7905463) | Montreal | — | — |
 | ↳ | [Intern Software Developer - Singapore - 2027](https://www.squarepoint-capital.com/opportunity-details?id=6201998&gh_jid=6201998) | Singapore | — | — |
-| **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [Software Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) | New York | — | — |
+| **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [Software Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016) | New York | USD 225k | — |
 
 </details>
 
@@ -465,7 +465,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [FPGA Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/) | Austin | — | — |
 | ↳ | [FPGA Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/technology/chicago/fpga-engineer-intern-summer-2027-chicago/) | Chicago | USD 80k | — |
 | ↳ | [FPGA Internship (2027 Start)](https://www.optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/) | Amsterdam | — | — |
-| **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [TSS Hardware Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) | New York | — | — |
+| **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [TSS Hardware Engineering Internship (Summer 2027)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) | New York | USD 225k | — |
 
 </details>
 
@@ -739,7 +739,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Crypto Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7217856) | London | — | Aug 8 |
 | **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [High-Touch Execution Strategist](https://www.squarepoint-capital.com/opportunity-details?id=7340149&gh_jid=7340149) | London | — | — |
 | ↳ | [Junior Commodities Fundamental Analyst](https://www.squarepoint-capital.com/opportunity-details?id=5929246&gh_jid=5929246) | Geneva, London +2 | USD 150k+ | — |
-| **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [Data Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) | New York | — | — |
+| **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [Data Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272) | New York | USD 225k | — |
 
 </details>
 
@@ -787,7 +787,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Junior Software Developer - Front-end](https://www.squarepoint-capital.com/opportunity-details?id=6034447&gh_jid=6034447) | London, Montreal +1 | — | — |
 | ↳ | [Junior UX/UI Engineer](https://www.squarepoint-capital.com/opportunity-details?id=7335465&gh_jid=7335465) | London | — | — |
 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (Houston)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Software-Engineering-Full-Time-Campus-Hire-Houston/14018) | Houston | — | — |
-| ↳ | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | New York | — | — |
+| ↳ | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | New York | USD 225k | — |
 | **[Wolverine Trading](https://quant-scraper.com/companies/wolverine)** | [C++ Software Engineer (Early Career)](https://careers.wolve.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648) | Chicago | USD 80k–120k | — |
 | ↳ | [Entry Level C++ Software Engineer](https://careers.wolve.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8) | Chicago | USD 80k–120k | — |
 | ↳ | [Entry Level C++ Software Engineer (December 2026 Graduates)](https://careers.wolve.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e) | Chicago | USD 80k–120k | — |
