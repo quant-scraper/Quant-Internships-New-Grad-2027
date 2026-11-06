@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**432** internships · **230** graduate roles · **29** programmes & insight weeks · updated 2026-11-05 22:41 UTC
+**432** internships · **230** graduate roles · **29** programmes & insight weeks · updated 2026-11-06 03:27 UTC
 
 ## Where the roles are
 
@@ -12,8 +12,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---:|---:|---:|---:|
 | Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [46](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [30](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [129](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [119](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [73](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [66](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [225](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [118](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [92](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [246](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [58](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [23](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [16](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [91](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Software & technology | [119](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [92](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [247](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Operations, risk & other | [57](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [23](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [16](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [90](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
@@ -22,8 +22,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 - [Internships](#internships) (432)
   - [Trading](#trading--internships) (75)
   - [Quantitative research](#quantitative-research--internships) (147)
-  - [Software & technology](#software--technology--internships) (144)
-  - [Operations, risk & other](#operations-risk--other--internships) (66)
+  - [Software & technology](#software--technology--internships) (145)
+  - [Operations, risk & other](#operations-risk--other--internships) (65)
 - [Graduate roles](#graduate-roles) (230)
   - [Trading](#trading--graduate-roles) (51)
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
@@ -393,12 +393,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>AI / ML</b> (20)</summary>
+<summary><b>AI / ML</b> (21)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Machine Learning Discovery Summit (On-site)](https://careers.sig.com/jobs/11692) | New York | — | Nov 5 |
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong | — | Oct 27 |
-| **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620) | Hong Kong | — | Oct 8 |
+| **Susquehanna International Group** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620) | Hong Kong | — | Oct 8 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | New York | USD 200k | Oct 8 |
 | **[G-Research](https://quant-scraper.com/companies/gresearch)** | [Machine Learning Engineer Internship](https://www.gresearch.com/vacancies/machine-learning-engineer-intern/) | London | — | Oct 6 |
 | **Susquehanna International Group** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11555) | Bala Cynwyd | — | Sep 24 |
@@ -512,8 +513,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[ExodusPoint](https://quant-scraper.com/companies/exoduspoint)** | [Hong Kong - Internship - RV Analyst](https://job-boards.greenhouse.io/exoduspoint/jobs/8927873002) | Hong Kong | General | — | Nov 5 |
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) | New York | General | USD 85k–95k | Nov 4 |
-| **[ExodusPoint](https://quant-scraper.com/companies/exoduspoint)** | [Hong Kong - Internship - RV Analyst](https://job-boards.greenhouse.io/exoduspoint/jobs/8927873002) | Hong Kong | General | — | Nov 2 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Systematic Quant Intern - PhD](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | United States (anywhere) | Quant | USD 114k–135k | Nov 2 |
 | **[Qube Research & Technologies](https://quant-scraper.com/companies/qrt)** | [2027 - Internship, HR Technology](https://www.qube-rt.com/careers/job?gh_jid=8926642002) | London | General | — | Nov 2 |
 | ↳ | [2027 - Internship, Business Data Analytics](https://www.qube-rt.com/careers/job?gh_jid=8926633002) | London | General | — | Nov 2 |
@@ -526,7 +527,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/Venture-Studio-Startup-Incubator-Intern-New-York-Summer-2027-6166) | New York | General | USD 156k | Oct 23 |
 | **[Chicago Trading Company](https://quant-scraper.com/companies/ctc)** | [Accounting Internship - Summer 2027](https://www.chicagotrading.com/early-career-job/?gh_jid=4745145005) | Chicago | General | USD 85k | Oct 22 |
 | **[Point72](https://quant-scraper.com/companies/point72)** | [2028 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) | United States (anywhere) | General | USD 120k–140k | Oct 19 |
-| **ExodusPoint** | [Quant Credit Intern - PA (Hybrid) - December 2026](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) | Wynnewood | Quant | — | Oct 18 |
 | **Susquehanna International Group** | [Business Analytics AI Co-op with Drexel University](https://careers.sig.com/jobs/11675) | Bala Cynwyd | AI / ML | — | Oct 15 |
 | ↳ | [SGE Venture Capital / Growth Equity Co-op with Drexel University](https://careers.sig.com/jobs/11674) | Bala Cynwyd | General | — | Oct 15 |
 | ↳ | [Compliance Co-op with Drexel University](https://careers.sig.com/jobs/11669) | Bala Cynwyd | General | — | Oct 15 |
