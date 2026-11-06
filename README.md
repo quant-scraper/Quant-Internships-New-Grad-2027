@@ -4,23 +4,23 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**432** internships · **230** graduate roles · **29** programmes & insight weeks · updated 2026-11-06 03:27 UTC
+**433** internships · **230** graduate roles · **30** programmes & insight weeks · updated 2026-11-06 12:58 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [46](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [30](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [129](https://quant-scraper.com/quant?for=students&discipline=trading) |
-| Quantitative research | [119](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [73](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [66](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [225](https://quant-scraper.com/quant?for=students&discipline=research) |
+| Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [46](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [30](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [130](https://quant-scraper.com/quant?for=students&discipline=trading) |
+| Quantitative research | [119](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [72](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [225](https://quant-scraper.com/quant?for=students&discipline=research) |
 | Software & technology | [119](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [92](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [247](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [57](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [23](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [16](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [90](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Operations, risk & other | [57](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [24](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [16](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [91](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (432)
-  - [Trading](#trading--internships) (75)
+- [Internships](#internships) (433)
+  - [Trading](#trading--internships) (76)
   - [Quantitative research](#quantitative-research--internships) (147)
   - [Software & technology](#software--technology--internships) (145)
   - [Operations, risk & other](#operations-risk--other--internships) (65)
@@ -29,11 +29,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
   - [Software & technology](#software--technology--graduate-roles) (94)
   - [Operations, risk & other](#operations-risk--other--graduate-roles) (8)
-- [Programmes & insight weeks](#programmes--insight-weeks) (29)
+- [Programmes & insight weeks](#programmes--insight-weeks) (30)
   - [Trading](#trading--programmes--insight-weeks) (3)
   - [Quantitative research](#quantitative-research--programmes--insight-weeks) (1)
   - [Software & technology](#software--technology--programmes--insight-weeks) (8)
-  - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (17)
+  - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (18)
 
 ## Internships
 
@@ -41,6 +41,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Trader Summer Intern (12-week program)](https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002) | — | General | — | Nov 6 |
 | **[Flow Traders](https://quant-scraper.com/companies/flowtraders)** | [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) | Amsterdam | General | — | Nov 2 |
 | **[Tower Research Capital](https://quant-scraper.com/companies/tower)** | [Quantitative Trader/Researcher Summer Internship 2027](https://www.tower-research.com/open-positions/?gh_jid=8037860) | London | Quant | — | Oct 27 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Systematic Fast Trading Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) | New York | Quant | USD 104k–125k | Oct 25 |
@@ -270,10 +271,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Point72](https://quant-scraper.com/companies/point72)** | [2027 MI Data Research Intern](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) | Hong Kong, Singapore | — | Nov 6 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago | USD 165k | Nov 4 |
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York | USD 100k–110k | Oct 26 |
 | ↳ | [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | New York | USD 125k–175k | Oct 22 |
-| **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | New York | USD 90k | Oct 14 |
+| **Point72** | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | New York | USD 90k | Oct 14 |
 | ↳ | [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) | New York | USD 130k–175k | Oct 14 |
 | ↳ | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | New York | USD 100k | Oct 14 |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [JD/MBA Investment Analyst (New York) - Summer 2027](https://www.deshaw.com/careers/JD-MBA-Investment-Analyst-New-York-Summer-2027-6055) | New York | USD 300k | Oct 2 |
@@ -288,8 +290,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Voleon** | [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) | Berkeley, New York | — | Aug 7 |
 | **Susquehanna International Group** | [Discovery Program: Capital Markets (On-site)](https://careers.sig.com/jobs/11259) | New York | — | Aug 6 |
 | ↳ | [Discovery Program: Equity + Macro Research (On-site)](https://careers.sig.com/jobs/11150) | New York | — | Aug 3 |
-| **[Qube Research & Technologies](https://quant-scraper.com/companies/qrt)** | [VIE in Research](https://www.qube-rt.com/careers/job?gh_jid=4812537002) | London | — | Jul 22 |
-| **Susquehanna International Group** | [Equity Research Internship: Summer 2027](https://careers.sig.com/jobs/11085) | London | — | Jul 17 |
+| ↳ | [Equity Research Internship: Summer 2027](https://careers.sig.com/jobs/11085) | London | — | Jul 17 |
 | ↳ | [Equity Research Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10876) | Dublin | — | Jul 17 |
 | **[WorldQuant](https://quant-scraper.com/companies/worldquant)** | [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) | Beijing, Shanghai | — | May 4 |
 | **[Citadel](https://quant-scraper.com/companies/citadel)** | [Sector Data Scientist - 2027 Intern (US)](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | New York | USD 146k | — |
@@ -946,6 +947,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Join our Man Technology Talent Community in Sofia](https://job-boards.eu.greenhouse.io/mangroup/jobs/4611464101) | Sofia | General | — | Nov 6 |
 | **[Citadel](https://quant-scraper.com/companies/citadel)** | [Campus 2027: EMEA Citadel Securities Quant Invitational](https://www.citadel.com/careers/details/campus-2027-emea-citadel-securities-quant-invitational/) | London | Quant | — | Oct 5 |
 | **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Campus 2027: EMEA Citadel Securities Quant Invitational](https://www.citadelsecurities.com/careers/details/campus-2027-emea-citadel-securities-quant-invitational/) | London | Quant | — | Oct 5 |
 | **[Chicago Trading Company](https://quant-scraper.com/companies/ctc)** | [Talent Community](https://www.chicagotrading.com/early-career-job/?gh_jid=4086101005) | Chicago | General | — | Sep 11 |
