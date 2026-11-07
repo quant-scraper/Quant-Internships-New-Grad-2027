@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**433** internships · **232** graduate roles · **30** programmes & insight weeks · updated 2026-11-06 22:08 UTC
+**433** internships · **231** graduate roles · **30** programmes & insight weeks · updated 2026-11-07 02:50 UTC
 
 ## Where the roles are
 
@@ -12,7 +12,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---:|---:|---:|---:|
 | Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [45](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [31](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [129](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [118](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [72](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [68](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [225](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [120](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [247](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Software & technology | [119](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [246](https://quant-scraper.com/quant?for=students&discipline=technology) |
 | Operations, risk & other | [58](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [24](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [18](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [94](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
@@ -24,10 +24,10 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--internships) (147)
   - [Software & technology](#software--technology--internships) (144)
   - [Operations, risk & other](#operations-risk--other--internships) (67)
-- [Graduate roles](#graduate-roles) (232)
+- [Graduate roles](#graduate-roles) (231)
   - [Trading](#trading--graduate-roles) (51)
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
-  - [Software & technology](#software--technology--graduate-roles) (95)
+  - [Software & technology](#software--technology--graduate-roles) (94)
   - [Operations, risk & other](#operations-risk--other--graduate-roles) (9)
 - [Programmes & insight weeks](#programmes--insight-weeks) (30)
   - [Trading](#trading--programmes--insight-weeks) (3)
@@ -828,11 +828,10 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>Quant</b> (10)</summary>
+<summary><b>Quant</b> (9)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
-| **[Millennium](https://quant-scraper.com/companies/millennium)** | [Quantitative Analyst - Quant Analyst Program](https://career.mlp.com/careers/job/755959471860) | New York | USD 160k–250k | Oct 19 |
 | **[Marshall Wace](https://quant-scraper.com/companies/marshallwace)** | [Quant Developer - Quant Associate Programme - 2027](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002) | London, New York | — | Oct 13 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Quantitative Strategy Developer - New Grad](https://careers.sig.com/jobs/11321) | Bala Cynwyd | — | Aug 19 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Quant Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) | Chicago | USD 200k | — |
