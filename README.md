@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**433** internships · **231** graduate roles · **30** programmes & insight weeks · updated 2026-11-08 21:12 UTC
+**433** internships · **230** graduate roles · **21** programmes & insight weeks · updated 2026-11-09 02:41 UTC
 
 ## Where the roles are
 
@@ -12,8 +12,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---:|---:|---:|---:|
 | Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [45](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [31](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [129](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [118](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [72](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [68](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [225](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [119](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [246](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [58](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [24](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [18](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [94](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Software & technology | [117](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [244](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Operations, risk & other | [54](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [22](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [16](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [86](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
@@ -24,16 +24,16 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--internships) (147)
   - [Software & technology](#software--technology--internships) (144)
   - [Operations, risk & other](#operations-risk--other--internships) (67)
-- [Graduate roles](#graduate-roles) (231)
+- [Graduate roles](#graduate-roles) (230)
   - [Trading](#trading--graduate-roles) (51)
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
   - [Software & technology](#software--technology--graduate-roles) (94)
-  - [Operations, risk & other](#operations-risk--other--graduate-roles) (9)
-- [Programmes & insight weeks](#programmes--insight-weeks) (30)
+  - [Operations, risk & other](#operations-risk--other--graduate-roles) (8)
+- [Programmes & insight weeks](#programmes--insight-weeks) (21)
   - [Trading](#trading--programmes--insight-weeks) (3)
   - [Quantitative research](#quantitative-research--programmes--insight-weeks) (1)
-  - [Software & technology](#software--technology--programmes--insight-weeks) (8)
-  - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (18)
+  - [Software & technology](#software--technology--programmes--insight-weeks) (6)
+  - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (11)
 
 ## Internships
 
@@ -913,7 +913,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Campus 27 / US / QT / Spark Sophomore Program](https://www.citadelsecurities.com/careers/details/campus-27-us-qt-spark-sophomore-program/) | New York | General | — | Nov 6 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Compliance Analyst - Operations Analyst Program: August 2027 Start](https://careers.sig.com/jobs/11693) | Bala Cynwyd | General | — | Nov 4 |
 | **[Bridgewater Associates](https://quant-scraper.com/companies/bridgewater)** | [Corporate Concierge](https://job-boards.greenhouse.io/bridgewater89/jobs/8919645002) | New York, Westport | General | USD 80k–95k | Nov 2 |
 | ↳ | [Portfolio Associate](https://job-boards.greenhouse.io/bridgewater89/jobs/8811654002) | Westport | General | USD 150k–200k | Sep 29 |
@@ -948,8 +947,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Flow Traders](https://quant-scraper.com/companies/flowtraders)** | [Talent Pool: Trading Systems Engineer](https://job-boards.greenhouse.io/flowtraders/jobs/8026227) | Chicago, New York | Systems | USD 160k–215k | Aug 24 |
 | **[AlphaGrep](https://quant-scraper.com/companies/alphagrep)** | [General Technology Submissions: Developers, Devops, Systems, FPGA](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/5149170002) | — | Hardware | — | Dec 29, 2025 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [General Submission](https://jobs.ashbyhq.com/old-mission-capital/f8350462-cdb1-423d-8146-860b5b05217d) | Chicago | General | — | Apr 28, 2021 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Campus 25 - Programming Accelerator](https://www.citadel.com/careers/details/campus-25-programming-accelerator/) | New York | Software | — | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Campus 25 - Programming Accelerator](https://www.citadelsecurities.com/careers/details/campus-25-programming-accelerator/) | New York | Software | — | — |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [All Positions in Systems](https://www.deshaw.com/careers/All-Positions-in-Systems-3480) | New York | Systems | — | — |
 
 ### Operations, risk & other — programmes & insight weeks
@@ -957,8 +954,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Join our Man Technology Talent Community in Sofia](https://job-boards.eu.greenhouse.io/mangroup/jobs/4611464101) | Sofia | General | — | Nov 6 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Campus 2027: EMEA Citadel Securities Quant Invitational](https://www.citadel.com/careers/details/campus-2027-emea-citadel-securities-quant-invitational/) | London | Quant | — | Oct 5 |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Campus 2027: EMEA Citadel Securities Quant Invitational](https://www.citadelsecurities.com/careers/details/campus-2027-emea-citadel-securities-quant-invitational/) | London | Quant | — | Oct 5 |
 | **[Chicago Trading Company](https://quant-scraper.com/companies/ctc)** | [Talent Community](https://www.chicagotrading.com/early-career-job/?gh_jid=4086101005) | Chicago | General | — | Sep 11 |
 | **[Maven Securities](https://quant-scraper.com/companies/maven)** | [Emerging Talent: Register Your Interest](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4751895) | London, Chicago +1 | General | — | Jun 30 |
 | **[Quadrature Capital](https://quant-scraper.com/companies/quadrature)** | [We're Hiring!](https://job-boards.greenhouse.io/quadraturecapital/jobs/3088156) | London | General | — | Jun 25 |
@@ -966,11 +961,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[WorldQuant](https://quant-scraper.com/companies/worldquant)** | [WorldQuant Technology Talent Network](https://job-boards.greenhouse.io/worldquant/jobs/4565984006) | Palm Beach, San Francisco +14 | Systems | — | May 4 |
 | **[ExodusPoint](https://quant-scraper.com/companies/exoduspoint)** | [Investment - ExodusPoint Jobs Page](https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002) | — | General | — | Jun 24, 2025 |
 | **[TGS Management](https://quant-scraper.com/companies/tgs)** | [Join Our Team](https://jobs.lever.co/tgsmc/eeb03bfa-4314-440b-ac4c-77ca12215752) | Irvine | General | — | Mar 22, 2023 |
-| **Citadel** | [Campus 27 - Commodities Texas A&M Superday](https://www.citadel.com/careers/details/campus-27-commodities-texas-am-superday/) | Houston | General | — | — |
-| ↳ | [GHC 2026 Travel Grant](https://www.citadel.com/careers/details/ghc-2026-travel-grant/) | Chicago, New York | General | — | — |
-| ↳ | [NeurIPS 2026 Travel Grant](https://www.citadel.com/careers/details/neurips-2026-travel-grant/) | Sydney | General | — | — |
-| **Citadel Securities** | [Campus 2026: Citadel Securities Trading Invitational (US)](https://www.citadelsecurities.com/careers/details/campus-2026-citadel-securities-trading-invitational-us/) | Miami | General | — | — |
-| ↳ | [NeurIPS 2026 Travel Grant](https://www.citadelsecurities.com/careers/details/neurips-2026-travel-grant/) | Sydney | General | — | — |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [All Positions in Legal & Compliance](https://www.deshaw.com/careers/All-Positions-in-Legal-Compliance-2985) | New York | General | — | — |
 | **[Point72](https://quant-scraper.com/companies/point72)** | [Investment Services Emerging Talent Network](https://boards.greenhouse.io/point72/jobs/6732930002?gh_jid=6732930002) | Stamford, New York | Systems | — | — |
 | ↳ | [Market Intelligence Emerging Talent Network](https://boards.greenhouse.io/point72/jobs/6656054002?gh_jid=6656054002) | New York | Systems | — | — |
