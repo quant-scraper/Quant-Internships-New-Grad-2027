@@ -4,26 +4,26 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**431** internships · **229** graduate roles · **23** programmes & insight weeks · updated 2026-11-09 13:56 UTC
+**433** internships · **229** graduate roles · **23** programmes & insight weeks · updated 2026-11-10 00:42 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
-| Trading | [60](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [44](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [31](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [127](https://quant-scraper.com/quant?for=students&discipline=trading) |
-| Quantitative research | [118](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [72](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [224](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [117](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [244](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [56](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [22](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [16](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [88](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Trading | [60](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [45](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [31](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [128](https://quant-scraper.com/quant?for=students&discipline=trading) |
+| Quantitative research | [118](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [75](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [227](https://quant-scraper.com/quant?for=students&discipline=research) |
+| Software & technology | [116](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [91](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [63](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [244](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Operations, risk & other | [55](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [22](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [15](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [86](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (431)
-  - [Trading](#trading--internships) (74)
-  - [Quantitative research](#quantitative-research--internships) (146)
+- [Internships](#internships) (433)
+  - [Trading](#trading--internships) (75)
+  - [Quantitative research](#quantitative-research--internships) (149)
   - [Software & technology](#software--technology--internships) (144)
-  - [Operations, risk & other](#operations-risk--other--internships) (67)
+  - [Operations, risk & other](#operations-risk--other--internships) (65)
 - [Graduate roles](#graduate-roles) (229)
   - [Trading](#trading--graduate-roles) (50)
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
@@ -64,7 +64,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Expression of Interest: 2027 Trading Sneak Peek Weeks](https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086) | Chicago | General | — | Sep 8 |
 | **Susquehanna International Group** | [Hong Kong + Singapore Discovery Program: April 2027](https://careers.sig.com/jobs/11453) | Hong Kong | Quant | — | Sep 8 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) | Hong Kong, Shanghai | Quant | — | Aug 28 |
-| ↳ | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) | Singapore | Quant | — | Aug 18 |
+| **Millennium** | [2027 Quantitative Intern, Dublin (6 Month Internship)](https://campusjobs.mlp.com/careers/job/755958176965) | Dublin | Quant | — | Aug 19 |
+| **Jump Trading** | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) | Singapore | Quant | — | Aug 18 |
 | **Tower Research Capital** | [Quantitative Trader/Researcher Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | New York, Chicago | Quant | USD 182k | Aug 12 |
 | **[Virtu Financial](https://quant-scraper.com/companies/virtu)** | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Austin, Chicago +1 | Quant | USD 260k–302k | Aug 10 |
 | **[PEAK6](https://quant-scraper.com/companies/peak6)** | [Trading Bootcamp Micro-Internship - Summer 2027](https://careers.peak6.com/jobs/business-operation-services/chicago-illinois-united-states-of-america/trading-bootcamp-micro-internship-summer-2027/JR105057) | Chicago | General | USD 52k–64k | Aug 10 |
@@ -119,7 +120,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 ### Quantitative research — internships
 
 <details open>
-<summary><b>Quant</b> (96)</summary>
+<summary><b>Quant</b> (98)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -146,6 +147,8 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027898) | Hong Kong, Shanghai | — | Aug 28 |
 | ↳ | [Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384) | London, Paris | — | Aug 28 |
 | **[Millennium](https://quant-scraper.com/companies/millennium)** | [2027 Quantitative Researcher Intern, Dubai](https://campusjobs.mlp.com/careers/job/755958178377) | Dubai | — | Aug 19 |
+| ↳ | [2027 Quantitative Researcher Intern, Dubai (6 Month Internship)](https://campusjobs.mlp.com/careers/job/755958178295) | Dubai | — | Aug 19 |
+| ↳ | [2027 Quantitative Researcher Intern, London (6 Month Internship)](https://campusjobs.mlp.com/careers/job/755958178483) | London | — | Aug 19 |
 | **Jump Trading** | [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) | Singapore | — | Aug 18 |
 | ↳ | [Campus Quantitative Researcher, PhD (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8049938) | Chicago, New York | USD 300k | Aug 18 |
 | **Susquehanna International Group** | [PhD Discovery Summit (On-site)](https://careers.sig.com/jobs/11184) | New York | — | Aug 18 |
@@ -254,13 +257,15 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>Software</b> (4)</summary>
+<summary><b>Software</b> (6)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927083002/) | New York | USD 300k | Nov 10 |
+| ↳ | [Formal Methods Research and Development](https://www.janestreet.com/join-jane-street/position/8927052002/) | London | — | Nov 10 |
 | **[Point72](https://quant-scraper.com/companies/point72)** | [Micro-Intern: Research Technology Developer (IAP)](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) | New York | — | Oct 1 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Discovery Programme : Equity Research (On-Site)](https://careers.sig.com/jobs/11573) | Dublin | — | Sep 30 |
-| **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Tools & Compilers Research and Development](https://www.janestreet.com/join-jane-street/position/5866838002/) | London | — | — |
+| **Jane Street** | [Tools & Compilers Research and Development](https://www.janestreet.com/join-jane-street/position/5866838002/) | London | — | — |
 | ↳ | [Tools and Compilers Research and Development](https://www.janestreet.com/join-jane-street/position/5869205002/) | New York | USD 250k | — |
 
 </details>
@@ -275,7 +280,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>General</b> (22)</summary>
+<summary><b>General</b> (21)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -287,8 +292,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | New York | USD 100k | Oct 14 |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [JD/MBA Investment Analyst (New York) - Summer 2027](https://www.deshaw.com/careers/JD-MBA-Investment-Analyst-New-York-Summer-2027-6055) | New York | USD 300k | Oct 2 |
 | ↳ | [MBA Investment Analyst (New York) - Summer 2027](https://www.deshaw.com/careers/MBA-Investment-Analyst-New-York-Summer-2027-6054) | New York | USD 300k | Oct 2 |
-| **[AQR Capital Management](https://quant-scraper.com/companies/aqr)** | [2027 Research and Portfolio Management Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Greenwich | — | Sep 21 |
-| ↳ | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Greenwich | — | Sep 21 |
+| **[AQR Capital Management](https://quant-scraper.com/companies/aqr)** | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Greenwich | — | Sep 21 |
 | ↳ | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Greenwich | — | Sep 21 |
 | **[Voleon](https://quant-scraper.com/companies/voleon)** | [Research Intern (London)](https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e) | London | — | Sep 16 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11362) | Hong Kong | — | Aug 25 |
@@ -520,7 +524,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---|---|---|---|---|
 | **[Point72](https://quant-scraper.com/companies/point72)** | [Corporate Access Intern](https://boards.greenhouse.io/point72/jobs/8878966002?gh_jid=8878966002) | Hong Kong | General | — | Nov 6 |
 | ↳ | [2027 Economist Intern](https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002) | Singapore | General | — | Nov 6 |
-| **[ExodusPoint](https://quant-scraper.com/companies/exoduspoint)** | [Hong Kong - Internship - RV Analyst](https://job-boards.greenhouse.io/exoduspoint/jobs/8927873002) | Hong Kong | General | — | Nov 5 |
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 Legal Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171776) | New York | General | USD 85k–95k | Nov 4 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Systematic Quant Intern - PhD](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | United States (anywhere) | Quant | USD 114k–135k | Nov 2 |
 | **[Qube Research & Technologies](https://quant-scraper.com/companies/qrt)** | [2027 - Internship, HR Technology](https://www.qube-rt.com/careers/job?gh_jid=8926642002) | London | General | — | Nov 2 |
@@ -550,14 +553,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Tower Research Capital** | [HR Intern](https://www.tower-research.com/open-positions/?gh_jid=8239067) | Gurugram | General | — | Sep 30 |
 | **[Optiver](https://quant-scraper.com/companies/optiver)** | [Market Risk Internship 2027 - Singapore](https://www.optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/) | Singapore | General | — | Sep 29 |
 | **Citadel** | [Human Resources - Intern (US)](https://www.citadel.com/careers/details/human-resources-intern-us/) | New York | General | USD 114k–120k | Sep 28 |
-| **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) | Chicago | General | USD 52k+ | Sep 23 |
 | **[Bridgewater Associates](https://quant-scraper.com/companies/bridgewater)** | [2027 Investment Associate Intern](https://job-boards.greenhouse.io/bridgewater89/jobs/8395041002) | New York | General | — | Sep 23 |
 | **[AQR Capital Management](https://quant-scraper.com/companies/aqr)** | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | Greenwich | General | — | Sep 21 |
 | **Tower Research Capital** | [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) | GIFT City | General | — | Sep 7 |
 | **Susquehanna International Group** | [Discovery Program: Growth Equity (On-site)](https://careers.sig.com/jobs/11191) | Bala Cynwyd | General | — | Aug 13 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [Legal Intern - Summer 2027](https://jobs.ashbyhq.com/old-mission-capital/81bc628b-efad-4ec9-9870-d49f5843a37a) | Chicago | General | USD 62k–73k | Aug 10 |
 | **Susquehanna International Group** | [Discovery Program: Operations (On-site)](https://careers.sig.com/jobs/11264) | Bala Cynwyd | General | — | Aug 7 |
-| **Akuna Capital** | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago | Quant | USD 145k+ | Aug 5 |
+| **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago | Quant | USD 145k+ | Aug 5 |
 | **Millennium** | [2027 Compliance Intern, Miami](https://campusjobs.mlp.com/careers/job/755957778878) | Miami | General | — | Jul 27 |
 | ↳ | [2027 Finance Intern, Dublin](https://campusjobs.mlp.com/careers/job/755957778839) | Dublin | General | — | Jul 27 |
 | ↳ | [2027 Market Risk Intern, London](https://campusjobs.mlp.com/careers/job/755957778864) | London | General | — | Jul 27 |
@@ -749,17 +751,19 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 ### Software & technology — graduate roles
 
 <details open>
-<summary><b>Software</b> (42)</summary>
+<summary><b>Software</b> (43)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
+| **[Wolverine Trading](https://quant-scraper.com/companies/wolverine)** | [New Grad C++ Software Engineer](https://careers.wolve.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c) | Chicago | USD 80k–120k | Nov 10 |
+| **[IMC](https://quant-scraper.com/companies/imc)** | [Core Developer - Digital Assets](https://job-boards.eu.greenhouse.io/imc/jobs/4637267101) | Zug | — | Nov 9 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Technology Graduate Programme - Software Engineer (Python)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978868101) | Sofia | — | Nov 5 |
 | ↳ | [Technology Graduate Programme - Software Engineer (C#/.Net)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978867101) | Sofia | — | Nov 5 |
 | **[Hudson River Trading](https://quant-scraper.com/companies/hrt)** | [Software Engineer (C++ or Python) - 2027 Grads](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Austin, Chicago +3 | USD 300k | Oct 30 |
 | **[Tower Research Capital](https://quant-scraper.com/companies/tower)** | [Software Engineer, C++ - Graduate Opportunity](https://www.tower-research.com/open-positions/?gh_jid=8245433) | Hong Kong, Singapore | — | Oct 30 |
 | **[Aquatic Capital Management](https://quant-scraper.com/companies/aquatic)** | [Software Engineer, Early Career](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) | Chicago, New York | USD 150k–200k | Oct 26 |
 | **[Two Sigma](https://quant-scraper.com/companies/twosigma)** | [Software Engineering Full-Time Campus Hire - London](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020) | London | — | Oct 8 |
-| **[IMC](https://quant-scraper.com/companies/imc)** | [Software Engineer, Early Career](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) | Chicago | USD 200k | Sep 30 |
+| **IMC** | [Software Engineer, Early Career](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) | Chicago | USD 200k | Sep 30 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Software Developer - Data Normalization & Adaptation (DNA) Team](https://careers.sig.com/jobs/11535) | Bala Cynwyd | — | Sep 16 |
 | **Tower Research Capital** | [Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer](https://www.tower-research.com/open-positions/?gh_jid=8126667) | Montreal | — | Sep 15 |
 | **[Eclipse Trading](https://quant-scraper.com/companies/eclipse)** | [Graduate Python Software Developer / 2027 Intake](https://job-boards.greenhouse.io/eclipsetrading/jobs/8729457002) | Hong Kong | — | Aug 24 |
@@ -791,8 +795,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Junior UX/UI Engineer](https://www.squarepoint-capital.com/opportunity-details?id=7335465&gh_jid=7335465) | London | — | — |
 | **Two Sigma** | [Software Engineering Full-Time Campus Hire (Houston)](https://careers.twosigma.com/careers/JobDetail/Houston-Texas-United-States-Software-Engineering-Full-Time-Campus-Hire-Houston/14018) | Houston | — | — |
 | ↳ | [Software Engineering Full-Time Campus Hire (NYC)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014) | New York | USD 225k | — |
-| **[Wolverine Trading](https://quant-scraper.com/companies/wolverine)** | [C++ Software Engineer (Early Career)](https://careers.wolve.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648) | Chicago | USD 80k–120k | — |
-| ↳ | [Entry Level C++ Software Engineer](https://careers.wolve.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8) | Chicago | USD 80k–120k | — |
+| **Wolverine Trading** | [Entry Level C++ Software Engineer](https://careers.wolve.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8) | Chicago | USD 80k–120k | — |
 | ↳ | [Entry Level C++ Software Engineer (December 2026 Graduates)](https://careers.wolve.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e) | Chicago | USD 80k–120k | — |
 | ↳ | [Entry Level C++ Software Engineer (Spring 2027 Graduates)](https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6) | Chicago | USD 80k–120k | — |
 
@@ -825,23 +828,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>Quant</b> (9)</summary>
-
-| Company | Role | Location | Salary | Posted |
-|---|---|---|---|---|
-| **[Marshall Wace](https://quant-scraper.com/companies/marshallwace)** | [Quant Developer - Quant Associate Programme - 2027](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002) | London, New York | — | Oct 13 |
-| **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Quantitative Strategy Developer - New Grad](https://careers.sig.com/jobs/11321) | Bala Cynwyd | — | Aug 19 |
-| **[IMC](https://quant-scraper.com/companies/imc)** | [Quant Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) | Chicago | USD 200k | — |
-| **[Radix Trading](https://quant-scraper.com/companies/radix)** | [Quantitative Technologist (Full-Time - C++ Developer)](https://job-boards.greenhouse.io/radixuniversity/jobs/8500240002) | Chicago, New York +1 | — | — |
-| ↳ | [Quantitative Technologist (Full-Time - DevOps & Systems Engineering)](https://job-boards.greenhouse.io/radixuniversity/jobs/8521638002) | Chicago, New York +1 | — | — |
-| ↳ | [Quantitative Technologist (Full-Time - DevOps - Night Shift)](https://job-boards.greenhouse.io/radixuniversity/jobs/8521641002) | Chicago | — | — |
-| ↳ | [Quantitative Technologist (Full-Time - FPGA Engineer, PhD)](https://job-boards.greenhouse.io/radixuniversity/jobs/8521654002) | Chicago | — | — |
-| **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [Graduate Quant Developer](https://www.squarepoint-capital.com/opportunity-details?id=7918610&gh_jid=7918610) | London, Montreal +1 | — | — |
-| ↳ | [Junior Quant Developer](https://www.squarepoint-capital.com/opportunity-details?id=6034466&gh_jid=6034466) | London, Montreal +1 | — | — |
-
-</details>
-
-<details>
 <summary><b>Hardware</b> (8)</summary>
 
 | Company | Role | Location | Salary | Posted |
@@ -854,6 +840,22 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Hardware Engineer (FPGA/ASIC)](https://www.janestreet.com/join-jane-street/position/8651405002/) | London | — | — |
 | **[Optiver](https://quant-scraper.com/companies/optiver)** | [Graduate FPGA Engineer (2027 Start - Chicago)](https://www.optiver.com/join-us/jobs/technology/chicago/graduate-fpga-engineer-2027-start-chicago/) | Chicago | USD 200k | — |
 | ↳ | [Graduate FPGA Engineer (2027 Start)](https://www.optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/) | Amsterdam | — | — |
+
+</details>
+
+<details>
+<summary><b>Quant</b> (8)</summary>
+
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Millennium](https://quant-scraper.com/companies/millennium)** | [Quantitative Analyst - Quant Analyst Program](https://career.mlp.com/careers/job/755959471860) | New York | USD 160k–250k | Oct 19 |
+| **[Marshall Wace](https://quant-scraper.com/companies/marshallwace)** | [Quant Developer - Quant Associate Programme - 2027](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002) | London, New York | — | Oct 13 |
+| **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Quantitative Strategy Developer - New Grad](https://careers.sig.com/jobs/11321) | Bala Cynwyd | — | Aug 19 |
+| **[IMC](https://quant-scraper.com/companies/imc)** | [Quant Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) | Chicago | USD 200k | — |
+| **[Radix Trading](https://quant-scraper.com/companies/radix)** | [Quantitative Technologist (Full-Time - C++ Developer)](https://job-boards.greenhouse.io/radixuniversity/jobs/8500240002) | Chicago, New York +1 | — | — |
+| ↳ | [Quantitative Technologist (Full-Time - FPGA Engineer, PhD)](https://job-boards.greenhouse.io/radixuniversity/jobs/8521654002) | Chicago | — | — |
+| **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [Graduate Quant Developer](https://www.squarepoint-capital.com/opportunity-details?id=7918610&gh_jid=7918610) | London, Montreal +1 | — | — |
+| ↳ | [Junior Quant Developer](https://www.squarepoint-capital.com/opportunity-details?id=6034466&gh_jid=6034466) | London, Montreal +1 | — | — |
 
 </details>
 
@@ -885,7 +887,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
-| **[Hudson River Trading](https://quant-scraper.com/companies/hrt)** | [Electronic Trading Support Engineer - 2026/2027 Grads](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8159996) | Dublin | USD 150k | Oct 30 |
+| **[Hudson River Trading](https://quant-scraper.com/companies/hrt)** | [Electronic Trading Support Engineer - 2026/2027 Grads](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8159996) | Dublin | USD 150k | Nov 9 |
 | **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [Junior Desktop Support Analyst](https://www.squarepoint-capital.com/opportunity-details?id=8067324&gh_jid=8067324) | London, Singapore | — | — |
 
 </details>
@@ -950,11 +952,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Maven Securities](https://quant-scraper.com/companies/maven)** | [Emerging Talent: Register Your Interest](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4751895) | London, Chicago +1 | General | — | Nov 9 |
 | **[Citadel](https://quant-scraper.com/companies/citadel)** | [Citadel Securities 2027 US PhD Summit](https://www.citadel.com/careers/details/citadel-securities-2027-us-phd-summit/) | Miami | General | — | Nov 9 |
 | **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Citadel Securities 2027 US PhD Summit](https://www.citadelsecurities.com/careers/details/citadel-securities-2027-us-phd-summit/) | Miami | General | — | Nov 9 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Join our Man Technology Talent Community in Sofia](https://job-boards.eu.greenhouse.io/mangroup/jobs/4611464101) | Sofia | General | — | Nov 6 |
 | **[Chicago Trading Company](https://quant-scraper.com/companies/ctc)** | [Talent Community](https://www.chicagotrading.com/early-career-job/?gh_jid=4086101005) | Chicago | General | — | Sep 11 |
-| **[Maven Securities](https://quant-scraper.com/companies/maven)** | [Emerging Talent: Register Your Interest](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4751895) | London, Chicago +1 | General | — | Jun 30 |
 | **[Quadrature Capital](https://quant-scraper.com/companies/quadrature)** | [We're Hiring!](https://job-boards.greenhouse.io/quadraturecapital/jobs/3088156) | London | General | — | Jun 25 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Akuna Capital's Talent Community](https://www.akunacapital.com/careers/job/8021124/?gh_jid=8021124) | — | General | — | Jun 22 |
 | **[WorldQuant](https://quant-scraper.com/companies/worldquant)** | [WorldQuant Technology Talent Network](https://job-boards.greenhouse.io/worldquant/jobs/4565984006) | Palm Beach, San Francisco +14 | Systems | — | May 4 |
