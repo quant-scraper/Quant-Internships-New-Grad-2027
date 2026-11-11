@@ -4,7 +4,7 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**424** internships · **228** graduate roles · **66** programmes & insight weeks · updated 2026-11-11 02:43 UTC
+**428** internships · **228** graduate roles · **66** programmes & insight weeks · updated 2026-11-11 02:56 UTC
 
 ## Where the roles are
 
@@ -12,18 +12,18 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---:|---:|---:|---:|
 | Trading | [58](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [45](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [31](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [129](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [118](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [79](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [69](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [231](https://quant-scraper.com/quant?for=students&discipline=research) |
-| Software & technology | [114](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [87](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [62](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [237](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [68](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [38](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [22](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [121](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Software & technology | [114](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [88](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [62](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [238](https://quant-scraper.com/quant?for=students&discipline=technology) |
+| Operations, risk & other | [68](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [41](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [22](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [124](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (424)
+- [Internships](#internships) (428)
   - [Trading](#trading--internships) (73)
   - [Quantitative research](#quantitative-research--internships) (149)
-  - [Software & technology](#software--technology--internships) (140)
-  - [Operations, risk & other](#operations-risk--other--internships) (62)
+  - [Software & technology](#software--technology--internships) (141)
+  - [Operations, risk & other](#operations-risk--other--internships) (65)
 - [Graduate roles](#graduate-roles) (228)
   - [Trading](#trading--graduate-roles) (49)
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
@@ -370,6 +370,35 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
+<summary><b>AI / ML</b> (21)</summary>
+
+| Company | Role | Location | Salary | Posted |
+|---|---|---|---|---|
+| **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Machine Learning Discovery Summit (On-site)](https://careers.sig.com/jobs/11692) | New York | — | Nov 5 |
+| **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong | — | Oct 27 |
+| **Susquehanna International Group** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620) | Hong Kong | — | Oct 8 |
+| **[IMC](https://quant-scraper.com/companies/imc)** | [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | New York | USD 200k | Oct 8 |
+| **[G-Research](https://quant-scraper.com/companies/gresearch)** | [Machine Learning Engineer Internship](https://www.gresearch.com/vacancies/machine-learning-engineer-intern/) | London | — | Oct 6 |
+| **Susquehanna International Group** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11555) | Bala Cynwyd | — | Sep 24 |
+| **[Millennium](https://quant-scraper.com/companies/millennium)** | [Off-Cycle Trading Intern - AI Engineering, 2026, Hong Kong](https://campusjobs.mlp.com/careers/job/755958163102) | Hong Kong | — | Aug 19 |
+| ↳ | [Off-Cycle Trading Intern - AI Engineering, 2026, Shanghai](https://campusjobs.mlp.com/careers/job/755958163900) | Shanghai | — | Aug 19 |
+| **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus AI Research Engineer - Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | Chicago, New York | USD 300k | Aug 18 |
+| ↳ | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | Chicago, New York | USD 300k | Aug 18 |
+| ↳ | [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | Chicago, New York | USD 300k | Aug 18 |
+| **Millennium** | [2027 Applied AI Engineer Intern, Dublin](https://campusjobs.mlp.com/careers/job/755957819151) | Dublin | — | Jul 28 |
+| ↳ | [2027 Applied AI Engineer Intern, Hong Kong](https://campusjobs.mlp.com/careers/job/755957778822) | Hong Kong | — | Jul 27 |
+| ↳ | [2027 Applied AI Engineer Intern, London](https://campusjobs.mlp.com/careers/job/755957778829) | London | — | Jul 27 |
+| ↳ | [2027 Applied AI Engineer Intern, Miami](https://campusjobs.mlp.com/careers/job/755957778848) | Miami | — | Jul 27 |
+| ↳ | [2027 Applied AI Engineer Intern, New York](https://campusjobs.mlp.com/careers/job/755957778821) | New York | USD 183k–220k | Jul 27 |
+| ↳ | [2027 Applied AI Engineer Intern, Singapore](https://campusjobs.mlp.com/careers/job/755957778819) | Singapore | — | Jul 27 |
+| ↳ | [2027 Applied AI Engineer Intern, Tel Aviv](https://campusjobs.mlp.com/careers/job/755957778856) | Tel Aviv | — | Jul 27 |
+| **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Machine Learning Engineer](https://www.janestreet.com/join-jane-street/position/8611307002/) | New York | USD 300k | — |
+| ↳ | [Machine Learning Engineer](https://www.janestreet.com/join-jane-street/position/8648474002/) | London | — | — |
+| **[Optiver](https://quant-scraper.com/companies/optiver)** | [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/technology/shanghai/2027-shanghai-machine-learning-engineer-summer-internship/) | Shanghai | — | — |
+
+</details>
+
+<details>
 <summary><b>Systems</b> (21)</summary>
 
 | Company | Role | Location | Salary | Posted |
@@ -395,34 +424,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Network Engineer](https://www.janestreet.com/join-jane-street/position/8693539002/) | Singapore | — | — |
 | ↳ | [Windows Engineer](https://www.janestreet.com/join-jane-street/position/8628843002/) | New York | USD 300k | — |
 | ↳ | [Windows Engineer](https://www.janestreet.com/join-jane-street/position/8755768002/) | London | — | — |
-
-</details>
-
-<details>
-<summary><b>AI / ML</b> (20)</summary>
-
-| Company | Role | Location | Salary | Posted |
-|---|---|---|---|---|
-| **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Machine Learning Discovery Summit (On-site)](https://careers.sig.com/jobs/11692) | New York | — | Nov 5 |
-| **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong | — | Oct 27 |
-| **Susquehanna International Group** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11620) | Hong Kong | — | Oct 8 |
-| **[IMC](https://quant-scraper.com/companies/imc)** | [Machine Learning Engineer Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | New York | USD 200k | Oct 8 |
-| **[G-Research](https://quant-scraper.com/companies/gresearch)** | [Machine Learning Engineer Internship](https://www.gresearch.com/vacancies/machine-learning-engineer-intern/) | London | — | Oct 6 |
-| **Susquehanna International Group** | [Machine Learning Engineering Internship: Summer 2027](https://careers.sig.com/jobs/11555) | Bala Cynwyd | — | Sep 24 |
-| **[Millennium](https://quant-scraper.com/companies/millennium)** | [Off-Cycle Trading Intern - AI Engineering, 2026, Hong Kong](https://campusjobs.mlp.com/careers/job/755958163102) | Hong Kong | — | Aug 19 |
-| ↳ | [Off-Cycle Trading Intern - AI Engineering, 2026, Shanghai](https://campusjobs.mlp.com/careers/job/755958163900) | Shanghai | — | Aug 19 |
-| **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus AI Research Engineer - Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) | Chicago, New York | USD 300k | Aug 18 |
-| ↳ | [Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) | Chicago, New York | USD 300k | Aug 18 |
-| ↳ | [Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) | Chicago, New York | USD 300k | Aug 18 |
-| **Millennium** | [2027 Applied AI Engineer Intern, Dublin](https://campusjobs.mlp.com/careers/job/755957819151) | Dublin | — | Jul 28 |
-| ↳ | [2027 Applied AI Engineer Intern, Hong Kong](https://campusjobs.mlp.com/careers/job/755957778822) | Hong Kong | — | Jul 27 |
-| ↳ | [2027 Applied AI Engineer Intern, London](https://campusjobs.mlp.com/careers/job/755957778829) | London | — | Jul 27 |
-| ↳ | [2027 Applied AI Engineer Intern, Miami](https://campusjobs.mlp.com/careers/job/755957778848) | Miami | — | Jul 27 |
-| ↳ | [2027 Applied AI Engineer Intern, New York](https://campusjobs.mlp.com/careers/job/755957778821) | New York | USD 183k–220k | Jul 27 |
-| ↳ | [2027 Applied AI Engineer Intern, Singapore](https://campusjobs.mlp.com/careers/job/755957778819) | Singapore | — | Jul 27 |
-| **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Machine Learning Engineer](https://www.janestreet.com/join-jane-street/position/8611307002/) | New York | USD 300k | — |
-| ↳ | [Machine Learning Engineer](https://www.janestreet.com/join-jane-street/position/8648474002/) | London | — | — |
-| **[Optiver](https://quant-scraper.com/companies/optiver)** | [2027 Shanghai Machine Learning Engineer Summer Internship](https://www.optiver.com/join-us/jobs/technology/shanghai/2027-shanghai-machine-learning-engineer-summer-internship/) | Shanghai | — | — |
 
 </details>
 
@@ -555,7 +556,10 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Susquehanna International Group** | [Discovery Program: Operations (On-site)](https://careers.sig.com/jobs/11264) | Bala Cynwyd | General | — | Aug 7 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago | Quant | USD 145k+ | Aug 5 |
 | **Millennium** | [2027 Compliance Intern, Miami](https://campusjobs.mlp.com/careers/job/755957778878) | Miami | General | — | Jul 27 |
+| ↳ | [2027 Finance Intern, Dublin](https://campusjobs.mlp.com/careers/job/755957778839) | Dublin | General | — | Jul 27 |
+| ↳ | [2027 Market Risk Intern, London](https://campusjobs.mlp.com/careers/job/755957778864) | London | General | — | Jul 27 |
 | ↳ | [2027 Marketing and Communications Intern, London](https://campusjobs.mlp.com/careers/job/755957778881) | London | General | — | Jul 27 |
+| ↳ | [2027 Operations & Middle Office Intern, London](https://campusjobs.mlp.com/careers/job/755957778854) | London | General | — | Jul 27 |
 | **Virtu Financial** | [Women's Winternship](https://job-boards.greenhouse.io/virtu/jobs/6426915002) | Singapore | General | — | Jul 20 |
 | ↳ | [Women's Winternship](https://job-boards.greenhouse.io/virtu/jobs/8551689002) | Dublin | General | — | Jul 1 |
 | **Susquehanna International Group** | [Accounting Internship: Summer 2027](https://careers.sig.com/jobs/10966) | Bala Cynwyd | General | — | Jun 29 |
