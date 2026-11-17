@@ -4,31 +4,31 @@ Every open internship and graduate role at 53 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**435** internships · **226** graduate roles · **60** programmes & insight weeks · updated 2026-11-17 01:21 UTC
+**434** internships · **228** graduate roles · **60** programmes & insight weeks · updated 2026-11-17 04:38 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Trading | [60](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [48](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [34](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [135](https://quant-scraper.com/quant?for=students&discipline=trading) |
-| Quantitative research | [112](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [75](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [69](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [224](https://quant-scraper.com/quant?for=students&discipline=research) |
+| Quantitative research | [113](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [75](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [69](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [225](https://quant-scraper.com/quant?for=students&discipline=research) |
 | Software & technology | [111](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [84](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [64](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [232](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [69](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [38](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [27](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [130](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Operations, risk & other | [68](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [40](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [28](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [130](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
 ## Contents
 
-- [Internships](#internships) (435)
+- [Internships](#internships) (434)
   - [Trading](#trading--internships) (80)
   - [Quantitative research](#quantitative-research--internships) (145)
   - [Software & technology](#software--technology--internships) (140)
-  - [Operations, risk & other](#operations-risk--other--internships) (70)
-- [Graduate roles](#graduate-roles) (226)
+  - [Operations, risk & other](#operations-risk--other--internships) (69)
+- [Graduate roles](#graduate-roles) (228)
   - [Trading](#trading--graduate-roles) (50)
-  - [Quantitative research](#quantitative-research--graduate-roles) (76)
+  - [Quantitative research](#quantitative-research--graduate-roles) (77)
   - [Software & technology](#software--technology--graduate-roles) (90)
-  - [Operations, risk & other](#operations-risk--other--graduate-roles) (10)
+  - [Operations, risk & other](#operations-risk--other--graduate-roles) (11)
 - [Programmes & insight weeks](#programmes--insight-weeks) (60)
   - [Trading](#trading--programmes--insight-weeks) (5)
   - [Quantitative research](#quantitative-research--programmes--insight-weeks) (3)
@@ -61,17 +61,21 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Off-Cycle Trading Intern, 2027, Shanghai](https://campusjobs.mlp.com/careers/job/755959251354) | Shanghai | General | — | Oct 16 |
 | **Susquehanna International Group** | [Derivatives Sales Trader Co-op with Drexel University](https://careers.sig.com/jobs/11670) | Bala Cynwyd | Quant | — | Oct 15 |
 | ↳ | [Trading Operations Co-op with Drexel University](https://careers.sig.com/jobs/11666) | Bala Cynwyd | General | — | Oct 15 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Rates Trading - Intern (Europe)](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | Paris, Amsterdam +1 | General | — | Oct 15 |
+| ↳ | [Quantitative Trading - Intern (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | Paris, Amsterdam +1 | Quant | — | Oct 15 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Investment & Trading - Intern (Europe)](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Paris, Amsterdam +1 | General | — | Oct 15 |
 | **Tower Research Capital** | [Quantitative Trader Intern, PhD](https://www.tower-research.com/open-positions/?gh_jid=8024138) | New York | Quant | USD 182k–296k | Oct 13 |
 | **Flow Traders** | [Quantitative Trading Intern Summer 2027](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) | New York | Quant | USD 150k | Oct 13 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Equities - Citadel Associate Program - Summer Internship 2028](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/) | New York | General | USD 130k–156k | Oct 5 |
+| **Citadel** | [Equities - Citadel Associate Program - Summer Internship 2028](https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/) | New York | General | USD 130k–156k | Oct 5 |
 | **Flow Traders** | [Trading Intern](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) | Hong Kong | General | — | Sep 30 |
 | **[Optiver](https://quant-scraper.com/companies/optiver)** | [FutureFocus: Quants 2027](https://www.optiver.com/join-us/jobs/trading/amsterdam/futurefocus-quants-2027/) | Amsterdam | Quant | — | Sep 28 |
-| **Citadel** | [Trader: Fixed Income & Macro Rotational Trader - Intern (US)](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) | Greenwich, Miami +1 | General | USD 208k–234k | Sep 24 |
+| **Citadel** | [Trader: Fixed Income & Macro Rotational Trader - Intern (US)](https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/) | Greenwich, Miami +1 | General | USD 208k–234k | Sep 23 |
 | **[Chicago Trading Company](https://quant-scraper.com/companies/ctc)** | [Quant Trading Internship - Summer 2027](https://www.chicagotrading.com/early-career-job/?gh_jid=4716930005) | Chicago | Quant | USD 198k | Sep 11 |
 | **Susquehanna International Group** | [Hong Kong PhD Discovery Program: April 2027](https://careers.sig.com/jobs/11495) | Hong Kong | Quant | — | Sep 10 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Expression of Interest: 2027 Trading Sneak Peek Weeks](https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086) | Chicago | General | — | Sep 8 |
 | **Five Rings** | [Summer Intern 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) | New York | Quant | USD 300k | Sep 1 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) | Hong Kong, Shanghai | Quant | — | Aug 28 |
+| **Citadel Securities** | [Quantitative Trader - Intern (US) (Trading and Research)](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us-trading-and-research/) | Miami, New York | Quant | USD 234k–302k | Aug 24 |
 | **Millennium** | [2027 Quantitative Intern, Dublin (6 Month Internship)](https://campusjobs.mlp.com/careers/job/755958176965) | Dublin | Quant | — | Aug 19 |
 | **Jump Trading** | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) | Singapore | Quant | — | Aug 18 |
 | **Tower Research Capital** | [Quantitative Trader/Researcher Intern - Summer 2027](https://www.tower-research.com/open-positions/?gh_jid=8024128) | New York, Chicago | Quant | USD 182k–296k | Aug 12 |
@@ -85,10 +89,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Millennium** | [2027 Sector Specialist Intern, Tokyo](https://campusjobs.mlp.com/careers/job/755957778830) | Tokyo | General | — | Jul 27 |
 | **Jump Trading** | [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) | London, Amsterdam | Quant | — | Jul 24 |
 | **Susquehanna International Group** | [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11216) | Chicago | Quant | USD 221k | Jul 23 |
-| ↳ | [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/11005) | London | Quant | — | Jul 15 |
+| **Citadel** | [International Equities - Intern (Asia)](https://www.citadel.com/careers/details/international-equities-intern-asia/) | Hong Kong, Singapore | General | — | Jul 15 |
+| **Citadel Securities** | [Quantitative Trading - Intern (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/) | Hong Kong | Quant | — | Jul 15 |
+| **Susquehanna International Group** | [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/11005) | London | Quant | — | Jul 15 |
 | ↳ | [Quantitative Systematic Trading Internship: Summer 2027](https://careers.sig.com/jobs/11006) | London | Quant | — | Jul 15 |
 | ↳ | [Quantitative Systematic Trading Internship: Summer 2027](https://careers.sig.com/jobs/10841) | Dublin | Quant | — | Jul 15 |
 | ↳ | [Quantitative Trading Internship: Summer 2027](https://careers.sig.com/jobs/10839) | Dublin | Quant | — | Jul 15 |
+| **Citadel** | [Quantitative Trader: Equity Quantitative Research - Intern (US)](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | Greenwich, Miami +1 | Quant | USD 234k–302k | Jul 9 |
 | **Virtu Financial** | [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) | Dublin | Quant | — | Jul 1 |
 | **Susquehanna International Group** | [Quantitative Systematic Trading Internship - Master's: Summer 2027](https://careers.sig.com/jobs/11122) | Hong Kong | Quant | — | Jun 30 |
 | ↳ | [Quantitative Systematic Trading Internship - Master's: Summer 2027](https://careers.sig.com/jobs/10824) | New York | Quant | USD 447k | Jun 29 |
@@ -99,13 +106,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Credit Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10794) | Bala Cynwyd | Quant | — | Apr 10 |
 | ↳ | [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10724) | Bala Cynwyd | Quant | — | Mar 23 |
 | ↳ | [Quantitative Systematic Trading Internship - PhD](https://careers.sig.com/jobs/10435) | Sydney | Quant | — | Jan 5 |
-| **Citadel** | [International Equities - Intern (Asia)](https://www.citadel.com/careers/details/international-equities-intern-asia/) | Hong Kong, Singapore | General | — | — |
-| ↳ | [Investment & Trading - Intern (Europe)](https://www.citadel.com/careers/details/investment-trading-intern-europe/) | Amsterdam, London +1 | General | — | — |
-| ↳ | [Quantitative Trader: Equity Quantitative Research - Intern (US)](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | Greenwich, Miami +1 | Quant | USD 234k–302k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Trader - Intern (US) (Trading and Research)](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/) | Miami, New York | Quant | USD 234k–302k | — |
-| ↳ | [Quantitative Trading - Intern (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-asia/) | Hong Kong | Quant | — | — |
-| ↳ | [Quantitative Trading - Intern (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/) | Amsterdam, London +1 | Quant | — | — |
-| ↳ | [Rates Trading - Intern (Europe)](https://www.citadelsecurities.com/careers/details/rates-trading-intern-europe/) | Amsterdam, London +1 | General | — | — |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [Proprietary Trading Intern (New York) - Summer 2027](https://www.deshaw.com/careers/Proprietary-Trading-Intern-New-York-Summer-2027-5731) | New York | General | USD 300k | — |
 | **[Da Vinci](https://quant-scraper.com/companies/davinci)** | [Quant Trading Intern](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) | Amsterdam | Quant | — | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3454789) | London | Quant | — | — |
@@ -148,7 +148,9 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [PhD Discovery Summit (On-Site)](https://careers.sig.com/jobs/11587) | Dublin | — | Oct 2 |
 | **Schonfeld** | [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172076) | Miami | USD 175k–220k | Sep 30 |
 | ↳ | [2027 Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8238448) | Hong Kong | — | Sep 30 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Researcher - Post-Doctoral Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Miami, New York | USD 234k–302k | Sep 23 |
 | **[Virtu Financial](https://quant-scraper.com/companies/virtu)** | [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/7617953002) | Singapore | — | Sep 17 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Quantitative Researcher - Post-Doctoral Intern (US)](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Greenwich, Miami +2 | USD 234k–302k | Sep 15 |
 | **Tower Research Capital** | [Quantitative Researcher Intern, PhD or Postdoc](https://www.tower-research.com/open-positions/?gh_jid=8168634) | Singapore, Hong Kong +2 | — | Sep 14 |
 | ↳ | [Quantitative Researcher Intern, Bachelor's or Master's](https://www.tower-research.com/open-positions/?gh_jid=8168750) | Singapore, Hong Kong +2 | — | Sep 14 |
 | **[Five Rings](https://quant-scraper.com/companies/fiverings)** | [Summer Intern 2027 - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) | New York | USD 300k | Sep 1 |
@@ -172,36 +174,34 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [2027 Quantitative Researcher Intern, New York](https://campusjobs.mlp.com/careers/job/755957778843) | New York | USD 184k–226k | Jul 27 |
 | ↳ | [2027 Quantitative Researcher Intern, Paris](https://campusjobs.mlp.com/careers/job/755957778850) | Paris | — | Jul 27 |
 | **Virtu Financial** | [2027 Internship - Quantitative Researcher (PhD)](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | New York | USD 260k–302k | Jul 23 |
+| **Citadel Securities** | [Quantitative Research Engineer - PhD Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Miami, New York | USD 234k–302k | Jul 17 |
+| ↳ | [Quantitative Researcher - PhD Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | Miami, New York | USD 234k–302k | Jul 17 |
+| **Citadel** | [Quantitative Research Engineer - PhD Intern (US)](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Greenwich, Miami +2 | USD 234k–302k | Jul 17 |
+| ↳ | [Quantitative Researcher - PhD Intern (US)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | Greenwich, Miami +2 | USD 234k–302k | Jul 17 |
+| **Citadel Securities** | [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | Zurich, London | — | Jul 15 |
+| ↳ | [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Hong Kong, Singapore | — | Jul 15 |
+| **Citadel** | [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Hong Kong, Singapore | — | Jul 15 |
 | **Susquehanna International Group** | [Quantitative Research Internship: Summer 2027](https://careers.sig.com/jobs/11007) | London | — | Jul 15 |
 | ↳ | [Quantitative Research Internship: Summer 2027](https://careers.sig.com/jobs/10843) | Dublin | — | Jul 15 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago | USD 145k+ | Jul 14 |
+| **Citadel Securities** | [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Zurich, Paris +1 | — | Jul 13 |
+| **Citadel** | [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | Zurich, Paris +1 | — | Jul 13 |
+| ↳ | [Quantitative Research Engineer - PHD Intern (Europe)](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | Zurich, London | — | Jul 13 |
+| **Citadel Securities** | [Quantitative Researcher - PhD Intern (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | Zurich, London | — | Jul 8 |
+| **Citadel** | [Quantitative Researcher - PhD Intern (Europe)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | Zurich, London | — | Jul 7 |
+| ↳ | [Quantitative Research Analyst - Intern (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | Greenwich, Miami +1 | USD 234k–302k | Jul 6 |
+| **Citadel Securities** | [Quantitative Researcher - PhD Intern (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | Jul 1 |
+| **Citadel** | [Quantitative Researcher - PhD Intern (Asia)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | Jul 1 |
 | **Susquehanna International Group** | [Quantitative Research Internship - Master's: Summer 2027](https://careers.sig.com/jobs/11121) | Hong Kong | — | Jun 30 |
 | ↳ | [Quantitative Research Internship - PhD: Summer 2027](https://careers.sig.com/jobs/11083) | Hong Kong | — | Jun 29 |
 | ↳ | [Quantitative Research Internship - Master's: Summer 2027](https://careers.sig.com/jobs/10820) | New York | USD 447k | Jun 29 |
 | ↳ | [Quantitative Research Internship - PhD: Summer 2027](https://careers.sig.com/jobs/10818) | New York | USD 447k | Jun 29 |
 | ↳ | [Quantitative Research Internship - Master's: Summer 2027](https://careers.sig.com/jobs/10819) | Bala Cynwyd | — | Apr 21 |
 | ↳ | [Quantitative Research Internship - PhD: Summer 2027](https://careers.sig.com/jobs/10817) | Bala Cynwyd | — | Apr 21 |
+| **Citadel Securities** | [Quantitative Research - PhD Intern (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-phd-intern-australia/) | Sydney | — | Feb 17 |
+| ↳ | [Quantitative Research Analyst Intern - BS/MS (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/) | Sydney | — | Feb 10 |
 | **Millennium** | [Off-Cycle Trading Intern - Quantitative Researcher, 2026, Shanghai](https://campusjobs.mlp.com/careers/job/755953958409) | Shanghai | — | Jan 23 |
 | **Susquehanna International Group** | [Quantitative Research Internship - PhD](https://careers.sig.com/jobs/10429) | Sydney | — | Jan 5 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Quantitative Research Analyst - Intern (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | Greenwich, Miami +1 | USD 234k–302k | — |
-| ↳ | [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | London, Paris +1 | — | — |
-| ↳ | [Quantitative Research Engineer - PHD Intern (Europe)](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/) | London, Zurich | — | — |
-| ↳ | [Quantitative Research Engineer - PhD Intern (US)](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Greenwich, Houston +2 | USD 234k–302k | — |
-| ↳ | [Quantitative Researcher - PhD Intern (Asia)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Researcher - PhD Intern (Europe)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) | London, Zurich | — | — |
-| ↳ | [Quantitative Researcher - PhD Intern (US)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) | Greenwich, Houston +2 | USD 234k–302k | — |
-| ↳ | [Quantitative Researcher - Post-Doctoral Intern (US)](https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Greenwich, Houston +2 | USD 234k–302k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Research - PhD Intern (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-phd-intern-australia/) | Sydney | — | — |
-| ↳ | [Quantitative Research Analyst Intern - BS/MS (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Research Analyst Intern - BS/MS (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/) | Sydney | — | — |
-| ↳ | [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) | London, Paris +1 | — | — |
-| ↳ | [Quantitative Research Analyst Intern - BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | London, Zurich | — | — |
-| ↳ | [Quantitative Research Engineer - PhD Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/) | Miami, New York | USD 234k–302k | — |
-| ↳ | [Quantitative Researcher - PhD Intern (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Researcher - PhD Intern (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/) | London, Zurich | — | — |
-| ↳ | [Quantitative Researcher - PhD Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/) | Miami, New York | USD 234k–302k | — |
-| ↳ | [Quantitative Researcher - Post-Doctoral Intern (US)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/) | Miami, New York | USD 234k–302k | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) | Chicago, New York | USD 250k–300k | — |
 | ↳ | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3455016) | London | — | — |
 | ↳ | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3474904) | Singapore | — | — |
@@ -237,11 +237,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Machine Learning Research Internship - PhD: 2027](https://careers.sig.com/jobs/11381) | Hong Kong | — | Sep 6 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus AI/ML Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027938) | Hong Kong, Shanghai +1 | — | Aug 28 |
 | ↳ | [Campus AI Researcher, PhD/Postdoc (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7976964) | London | — | Aug 18 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Machine Learning Researcher - PhD Intern (US)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | Miami, New York | USD 234k–302k | Jul 17 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Machine Learning Researcher - PhD Intern (US)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | Greenwich, Miami +2 | USD 234k–302k | Jul 17 |
+| **Citadel Securities** | [Machine Learning Researcher - PhD Intern (Asia)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | Jul 1 |
+| **Citadel** | [Machine Learning Researcher - PhD Intern (Asia)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | Jul 1 |
 | **Susquehanna International Group** | [Machine Learning Research Internship - PhD: 2027](https://careers.sig.com/jobs/10785) | Bala Cynwyd | — | Apr 9 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Machine Learning Researcher - PhD Intern (Asia)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Machine Learning Researcher - PhD Intern (US)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | Greenwich, Houston +2 | USD 234k–302k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Machine Learning Researcher - PhD Intern (Asia)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Machine Learning Researcher - PhD Intern (US)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/) | Miami, New York | USD 234k–302k | — |
 | **[G-Research](https://quant-scraper.com/companies/gresearch)** | [Machine Learning Research Internship](https://www.gresearch.com/vacancies/machine-learning-research-internship/) | London | — | — |
 | **IMC** | [Deep Learning Research Intern - 2027 - Sydney](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) | Sydney | — | — |
 | ↳ | [Deep Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | Amsterdam | — | — |
@@ -288,6 +288,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [Cove MBA Associate- Summer 2027](https://www.deshaw.com/careers/Cove-MBA-Associate-Summer-2027-6283) | New York | USD 228k | Nov 10 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago | USD 165k | Nov 4 |
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York | USD 100k–110k | Oct 26 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Sector Data Scientist - 2027 Intern (US)](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | New York | USD 146k | Oct 21 |
 | **Point72** | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | New York | USD 90k | Oct 14 |
 | ↳ | [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) | New York | USD 130k–175k | Oct 14 |
 | ↳ | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | New York | USD 100k | Oct 14 |
@@ -298,14 +299,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Voleon](https://quant-scraper.com/companies/voleon)** | [Research Intern (London)](https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e) | London | — | Sep 16 |
 | **Susquehanna International Group** | [Macro Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11362) | Hong Kong | — | Aug 25 |
 | ↳ | [Equity Analyst Internship: Summer 2027](https://careers.sig.com/jobs/11361) | Hong Kong | — | Aug 25 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Trading Fundamental Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) | New York | USD 198k–224k | Aug 19 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | — | Aug 8 |
 | **Voleon** | [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) | Berkeley, New York | — | Aug 7 |
 | **Susquehanna International Group** | [Discovery Program: Capital Markets (On-site)](https://careers.sig.com/jobs/11259) | New York | — | Aug 6 |
 | ↳ | [Equity Research Internship: Summer 2027](https://careers.sig.com/jobs/11085) | London | — | Jul 17 |
 | ↳ | [Equity Research Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10876) | Dublin | — | Jul 17 |
 | **[WorldQuant](https://quant-scraper.com/companies/worldquant)** | [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) | Beijing, Shanghai | — | May 4 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Sector Data Scientist - 2027 Intern (US)](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | New York | USD 146k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Trading Fundamental Analyst - Intern (US)](https://www.citadelsecurities.com/careers/details/trading-fundamental-analyst-intern-us/) | New York | USD 198k–224k | — |
 
 </details>
 
@@ -341,13 +341,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Jump Trading** | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago | USD 250k | Aug 14 |
 | **Virtu Financial** | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/5513756002) | Singapore | — | Jul 30 |
 | ↳ | [2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) | Dublin | — | Jul 20 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Software Engineer - Intern (Europe)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/) | London | — | Jul 15 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [Software Engineer - 2027 Internship Program (June Start)](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6) | Chicago | USD 150k–200k | Jul 15 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Software Engineer - Intern (Asia)](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Software Engineer - Intern (Europe)](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | London | — | — |
-| ↳ | [Software Engineer - Intern (US)](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Greenwich, Houston +2 | USD 234k–302k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Software Engineer - Intern (Asia)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Software Engineer - Intern (Europe)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/) | London | — | — |
-| ↳ | [Software Engineer - Intern (US)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, New York | USD 234k–302k | — |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Software Engineer - Intern (Asia)](https://www.citadel.com/careers/details/software-engineer-intern-asia/) | Hong Kong, Singapore | — | Jul 15 |
+| **Citadel Securities** | [Software Engineer - Intern (Asia)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-asia/) | Hong Kong, Singapore | — | Jul 15 |
+| **Citadel** | [Software Engineer - Intern (Europe)](https://www.citadel.com/careers/details/software-engineer-intern-europe/) | London | — | Jul 13 |
+| ↳ | [Software Engineer - Intern (US)](https://www.citadel.com/careers/details/software-engineer-intern-us/) | Greenwich, Miami +2 | USD 234k–302k | Jul 6 |
+| **Citadel Securities** | [Software Engineer - Intern (US)](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) | Miami, New York | USD 234k–302k | Jul 6 |
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [Software Developer Intern (New York) - Summer 2027](https://www.deshaw.com/careers/Software-Developer-Intern-New-York-Summer-2027-5894) | New York | USD 300k | — |
 | ↳ | [Software Developer, Ph.D. Intern (New York) - Summer 2027](https://www.deshaw.com/careers/Software-Developer-Ph-D-Intern-New-York-Summer-2027-5893) | New York | USD 360k | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3477130) | Amsterdam | — | — |
@@ -522,6 +522,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | New York | Security | USD 85k–95k | Nov 16 |
 | **[ExodusPoint](https://quant-scraper.com/companies/exoduspoint)** | [Quant Credit Intern - PA (Hybrid) - December 2026](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) | Wynnewood | Quant | — | Nov 16 |
 | **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)](https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002) | Japan (anywhere) | General | — | Nov 15 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Operations Analyst - Intern (US)](https://www.citadel.com/careers/details/operations-analyst-intern-us/) | Greenwich, New York | General | USD 114k–120k | Nov 13 |
 | **Schonfeld** | [2027 Fund Accounting Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) | New York | General | USD 100k–115k | Nov 13 |
 | **ExodusPoint** | [Quantitative Internship - Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002) | Hong Kong | Quant | — | Nov 13 |
 | ↳ | [Rates Internship - Hong Kong](https://job-boards.greenhouse.io/exoduspoint/jobs/8938482002) | Hong Kong | General | — | Nov 11 |
@@ -543,6 +544,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[D. E. Shaw](https://quant-scraper.com/companies/deshaw)** | [Venture Studio (Startup Incubator) Intern (New York) - Summer 2027](https://www.deshaw.com/careers/Venture-Studio-Startup-Incubator-Intern-New-York-Summer-2027-6166) | New York | General | USD 156k | Oct 23 |
 | **[Chicago Trading Company](https://quant-scraper.com/companies/ctc)** | [Accounting Internship - Summer 2027](https://www.chicagotrading.com/early-career-job/?gh_jid=4745145005) | Chicago | General | USD 85k | Oct 22 |
 | **Point72** | [2028 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) | United States (anywhere) | General | USD 120k–140k | Oct 19 |
+| **Citadel** | [Finance & Accounting - Intern (US)](https://www.citadel.com/careers/details/finance-accounting-intern-us/) | New York | General | USD 114k–120k | Oct 16 |
 | **Susquehanna International Group** | [Business Analytics AI Co-op with Drexel University](https://careers.sig.com/jobs/11675) | Bala Cynwyd | AI / ML | — | Oct 15 |
 | ↳ | [SGE Venture Capital / Growth Equity Co-op with Drexel University](https://careers.sig.com/jobs/11674) | Bala Cynwyd | General | — | Oct 15 |
 | ↳ | [Compliance Co-op with Drexel University](https://careers.sig.com/jobs/11669) | Bala Cynwyd | General | — | Oct 15 |
@@ -552,7 +554,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Equity Options Operations Co-op with Drexel University](https://careers.sig.com/jobs/11661) | Bala Cynwyd | General | — | Oct 15 |
 | ↳ | [Facilities Management Co-op with Drexel University](https://careers.sig.com/jobs/11662) | Bala Cynwyd | General | — | Oct 15 |
 | **Tower Research Capital** | [Venture Capital Intern (Part-time, Fall/Winter)](https://www.tower-research.com/open-positions/?gh_jid=7368106) | New York | General | USD 26k–52k | Oct 12 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Human Resources - MBA Intern (US)](https://www.citadel.com/careers/details/human-resources-mba-intern-us/) | New York | General | USD 182k–200k | Oct 7 |
 | **Susquehanna International Group** | [Discovery Event: High School + First Year College Students (Virtual)](https://careers.sig.com/jobs/11571) | Bala Cynwyd | Quant | — | Oct 5 |
 | **D. E. Shaw** | [Strategy and Business Development MBA Summer Associate (New York) - Summer 2027](https://www.deshaw.com/careers/Strategy-and-Business-Development-MBA-Summer-Associate-New-York-Summer-2027-6088) | New York | General | USD 228k | Oct 2 |
 | **Schonfeld** | [2027 Emerging Markets and Delta One Investment Analyst Internship](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) | Dubai | General | — | Sep 30 |
@@ -561,28 +562,26 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Citadel** | [Human Resources - Intern (US)](https://www.citadel.com/careers/details/human-resources-intern-us/) | New York | General | USD 114k–120k | Sep 28 |
 | **[AQR Capital Management](https://quant-scraper.com/companies/aqr)** | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | Greenwich | General | — | Sep 21 |
 | **Tower Research Capital** | [Intern](https://www.tower-research.com/open-positions/?gh_jid=8184771) | GIFT City | General | — | Sep 7 |
+| **Citadel** | [Operations - Intern (Asia)](https://www.citadel.com/careers/details/operations-intern-asia/) | Singapore | General | — | Aug 13 |
 | **Susquehanna International Group** | [Discovery Program: Growth Equity (On-site)](https://careers.sig.com/jobs/11191) | Bala Cynwyd | General | — | Aug 13 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [Legal Intern - Summer 2027](https://jobs.ashbyhq.com/old-mission-capital/81bc628b-efad-4ec9-9870-d49f5843a37a) | Chicago | General | USD 62k–73k | Aug 10 |
 | **Susquehanna International Group** | [Discovery Program: Operations (On-site)](https://careers.sig.com/jobs/11264) | Bala Cynwyd | General | — | Aug 7 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago | Quant | USD 145k+ | Aug 5 |
+| **Citadel** | [Sector Data Analyst - Intern (Europe)](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | London | General | — | Jul 31 |
 | **Millennium** | [2027 Compliance Intern, Miami](https://campusjobs.mlp.com/careers/job/755957778878) | Miami | General | — | Jul 27 |
 | ↳ | [2027 Finance Intern, Dublin](https://campusjobs.mlp.com/careers/job/755957778839) | Dublin | General | — | Jul 27 |
 | ↳ | [2027 Market Risk Intern, London](https://campusjobs.mlp.com/careers/job/755957778864) | London | General | — | Jul 27 |
 | ↳ | [2027 Marketing and Communications Intern, London](https://campusjobs.mlp.com/careers/job/755957778881) | London | General | — | Jul 27 |
 | **Virtu Financial** | [Women's Winternship](https://job-boards.greenhouse.io/virtu/jobs/6426915002) | Singapore | General | — | Jul 20 |
-| ↳ | [Women's Winternship](https://job-boards.greenhouse.io/virtu/jobs/8551689002) | Dublin | General | — | Jul 1 |
+| **Citadel** | [Operations Analyst - Intern (Europe)](https://www.citadel.com/careers/details/operations-analyst-intern-europe/) | London | General | — | Jul 15 |
+| ↳ | [Sector Data Analyst - Intern (Asia)](https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/) | Hong Kong, Singapore | General | — | Jul 15 |
+| **Virtu Financial** | [Women's Winternship](https://job-boards.greenhouse.io/virtu/jobs/8551689002) | Dublin | General | — | Jul 1 |
 | **Susquehanna International Group** | [Accounting Internship: Summer 2027](https://careers.sig.com/jobs/10966) | Bala Cynwyd | General | — | Jun 29 |
 | ↳ | [Tax Internship: Summer 2027](https://careers.sig.com/jobs/10965) | Bala Cynwyd | General | — | Jun 29 |
 | ↳ | [Analytics Internship: Fall 2026](https://careers.sig.com/jobs/11099) | Richmond | General | — | Jun 25 |
 | **[Quadrature Capital](https://quant-scraper.com/companies/quadrature)** | [Internships](https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974) | London, New York | General | — | Jun 25 |
 | **Susquehanna International Group** | [Operations Internship: Summer 2027](https://careers.sig.com/jobs/10916) | Bala Cynwyd | General | — | Jun 9 |
 | ↳ | [ETF Sales Internship: Summer 2027](https://careers.sig.com/jobs/10944) | Bala Cynwyd | General | — | Jun 4 |
-| **Citadel** | [Finance & Accounting - Intern (US)](https://www.citadel.com/careers/details/finance-accounting-intern-us/) | New York | General | USD 114k–120k | — |
-| ↳ | [Operations - Intern (Asia)](https://www.citadel.com/careers/details/operations-intern-asia/) | Singapore | General | — | — |
-| ↳ | [Operations Analyst - Intern (Europe)](https://www.citadel.com/careers/details/operations-analyst-intern-europe/) | London | General | — | — |
-| ↳ | [Operations Analyst - Intern (US)](https://www.citadel.com/careers/details/operations-analyst-intern-us/) | Greenwich, New York | General | USD 114k–120k | — |
-| ↳ | [Sector Data Analyst - Intern (Asia)](https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/) | Hong Kong, Singapore | General | — | — |
-| ↳ | [Sector Data Analyst - Intern (Europe)](https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/) | London | General | — | — |
 | **[Geneva Trading](https://quant-scraper.com/companies/geneva)** | [Systems Support Analyst Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5242246007) | Chicago | Support | USD 62k–73k | — |
 | **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8630713002/) | Hong Kong | General | — | — |
 | ↳ | [Strategy and Product](https://www.janestreet.com/join-jane-street/position/8518854002/) | London | General | — | — |
@@ -609,7 +608,9 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Campus Full Time 2027 - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) | New York | Quant | USD 300k | Sep 1 |
 | ↳ | [Campus Full Time 2027 - Quantitative Trader - London](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008) | London | Quant | — | Sep 1 |
 | **[Tower Research Capital](https://quant-scraper.com/companies/tower)** | [Quantitative Trader/Researcher Graduate Programme 2027](https://www.tower-research.com/open-positions/?gh_jid=8037824) | London | Quant | — | Sep 1 |
-| ↳ | [Quantitative Trader/Researcher - 2027](https://www.tower-research.com/open-positions/?gh_jid=8024142) | New York, Chicago | Quant | USD 150k–250k | Aug 14 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Trader: Power & Renewables Trader - FlexPower (a Citadel company) - University Graduate (EMEA)](https://www.citadel.com/careers/details/trader-power-renewables-trader-flexpower-a-citadel-company-university-graduate-emea/) | Hamburg | General | — | Aug 28 |
+| ↳ | [Equities - Citadel Associate Program - Full Time Program 2027 (US)](https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2027-us/) | New York | General | USD 125k–135k | Aug 18 |
+| **Tower Research Capital** | [Quantitative Trader/Researcher - 2027](https://www.tower-research.com/open-positions/?gh_jid=8024142) | New York, Chicago | Quant | USD 150k–250k | Aug 14 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Quantitative Trader (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050801) | London, Amsterdam | Quant | — | Aug 8 |
 | **[Belvedere Trading](https://quant-scraper.com/companies/belvedere)** | [Quantitative Trader - Entry Level 2027](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee) | Chicago | Quant | USD 140k | Aug 4 |
 | **Susquehanna International Group** | [Quantitative Trader - Graduate: 2027](https://careers.sig.com/jobs/11031) | London | Quant | — | Jul 15 |
@@ -619,6 +620,9 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Old Mission Capital** | [Quantitative Trader - 2027 Graduate Program (August Start)](https://jobs.ashbyhq.com/old-mission-capital/cec17eab-6e17-4248-aa35-3824392c056d) | London | Quant | — | Jul 13 |
 | ↳ | [Quantitative Trader - 2027 Graduate Program (February Start)](https://jobs.ashbyhq.com/old-mission-capital/a7b34fe6-cd82-4f17-b5d7-983aa354b505) | Chicago, New York | Quant | USD 200k | Jul 13 |
 | ↳ | [Quantitative Trader - 2027 Graduate Program (August Start)](https://jobs.ashbyhq.com/old-mission-capital/a8bad54c-405b-469c-8a7d-b7794dfb54b3) | Chicago, New York | Quant | USD 200k | Jul 13 |
+| **Citadel** | [Quantitative Trader: Equity Quantitative Research - University Graduate (US)](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) | New York | Quant | USD 235k–300k | Jul 6 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Trader - University Graduate (US - New York)](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) | New York | Quant | USD 235k–300k | Jul 6 |
+| ↳ | [Quantitative Trader - University Graduate (US - Miami)](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) | Miami | Quant | — | Jul 6 |
 | **Susquehanna International Group** | [Quantitative Systematic Trader - Master's: 2027](https://careers.sig.com/jobs/11022) | New York | Quant | USD 300k | Jun 29 |
 | ↳ | [Quantitative Systematic Trader - Master's: 2027](https://careers.sig.com/jobs/11020) | Bala Cynwyd | Quant | — | Jun 29 |
 | ↳ | [Quantitative Systematic Trader - PhD: 2027](https://careers.sig.com/jobs/11021) | New York | Quant | USD 300k | Jun 29 |
@@ -626,11 +630,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Power Analyst](https://careers.sig.com/jobs/10365) | Bala Cynwyd | Quant | — | May 18 |
 | ↳ | [Quantitative Systematic Trader - PhD: 2026](https://careers.sig.com/jobs/10433) | Sydney | Quant | — | Jan 5 |
 | ↳ | [Quantitative Systematic Trader - Honours and Master’s: 2026](https://careers.sig.com/jobs/10432) | Sydney | Quant | — | Jan 5 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Equities - Citadel Associate Program - Full Time Program 2027 (US)](https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2027-us/) | New York | General | USD 125k–135k | — |
-| ↳ | [Quantitative Trader: Equity Quantitative Research - University Graduate (US)](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) | New York | Quant | USD 235k–300k | — |
-| ↳ | [Trader: Power & Renewables Trader - FlexPower (a Citadel company) - University Graduate (EMEA)](https://www.citadel.com/careers/details/trader-power-renewables-trader-flexpower-a-citadel-company-university-graduate-emea/) | Hamburg | General | — | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Trader - University Graduate (US - Miami)](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) | Miami | Quant | — | — |
-| ↳ | [Quantitative Trader - University Graduate (US - New York)](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) | New York | Quant | USD 235k–300k | — |
 | **[Da Vinci](https://quant-scraper.com/companies/davinci)** | [Graduate Trader](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4043984101) | Amsterdam | General | — | — |
 | ↳ | [Graduate Trading Risk Analyst](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4719855101) | Amsterdam | General | — | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Floor Trader](https://www.drw.com/work-at-drw/listings/floor-trader-3552394) | Chicago | General | USD 200k | — |
@@ -670,9 +669,22 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) | Chicago | USD 145k+ | Sep 18 |
 | **Jump Trading** | [Campus Quantitative Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8050796) | London, Amsterdam | — | Aug 8 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)](https://jobs.ashbyhq.com/old-mission-capital/e307627e-98e6-47ac-924e-b0dbef1984c8) | Chicago | USD 175k–250k | Jul 30 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Research Engineer - PhD Graduate (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | Miami, New York | USD 235k–300k | Jul 17 |
+| ↳ | [Quantitative Researcher - PhD Graduate (US)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/) | Miami, New York | USD 235k–300k | Jul 17 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Quantitative Research Engineer - PhD Graduate (US)](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | Greenwich, Miami +2 | USD 235k–300k | Jul 17 |
+| ↳ | [Quantitative Researcher - PhD Graduate (US)](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) | Greenwich, Miami +2 | USD 235k–300k | Jul 17 |
+| ↳ | [Quantitative Research Analyst - University Graduate (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Zurich, London | — | Jul 15 |
+| ↳ | [Quantitative Research Analyst - University Graduate (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/) | Hong Kong, Singapore | — | Jul 15 |
+| **Citadel Securities** | [Quantitative Research Analyst - University Graduate (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/) | Hong Kong, Singapore | — | Jul 15 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Quantitative Researcher - Graduate: 2027](https://careers.sig.com/jobs/11033) | London | — | Jul 15 |
 | ↳ | [Quantitative Researcher - Graduate: 2027](https://careers.sig.com/jobs/10844) | Dublin | — | Jul 15 |
 | **Akuna Capital** | [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) | Chicago | USD 145k+ | Jul 14 |
+| **Citadel** | [Quantitative Researcher - PhD Graduate (Europe)](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Zurich, Dublin +1 | — | Jul 7 |
+| **Citadel Securities** | [Quantitative Researcher - PhD Graduate (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Zurich, Dublin +1 | — | Jul 7 |
+| ↳ | [Quantitative Research Analyst - University Graduate (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Zurich, Dublin +1 | — | Jul 7 |
+| **Citadel** | [Quantitative Research Analyst - University Graduate (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) | Greenwich, Miami +1 | USD 235k–300k | Jul 6 |
+| **Citadel Securities** | [Quantitative Researcher - PhD Graduate (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | Jul 1 |
+| **Citadel** | [Quantitative Researcher - PhD Graduate (Asia)](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | Jul 1 |
 | **Susquehanna International Group** | [Quantitative Researcher - Master's: 2027](https://careers.sig.com/jobs/11018) | New York | USD 300k | Jun 29 |
 | ↳ | [Quantitative Researcher - Master's: 2027](https://careers.sig.com/jobs/11016) | Bala Cynwyd | — | Jun 29 |
 | ↳ | [Quantitative Researcher - PhD: 2027](https://careers.sig.com/jobs/11017) | New York | USD 300k | Jun 29 |
@@ -681,19 +693,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **Susquehanna International Group** | [Quantitative Researcher - PhD: 2026](https://careers.sig.com/jobs/10428) | Sydney | — | Jan 5 |
 | ↳ | [Quantitative Researcher - Honours and Master's: 2026](https://careers.sig.com/jobs/10431) | Sydney | — | Jan 5 |
 | ↳ | [Quantitative Sports Researcher - Graduate Hire](https://careers.sig.com/jobs/4454) | Bala Cynwyd | — | Aug 9, 2019 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Quantitative Research Analyst - University Graduate (Asia)](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Research Analyst - University Graduate (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | London, Zurich | — | — |
-| ↳ | [Quantitative Research Analyst - University Graduate (US)](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) | Greenwich, Miami +1 | USD 235k–300k | — |
-| ↳ | [Quantitative Research Engineer - PhD Graduate (US)](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | Greenwich, Houston +2 | USD 235k–300k | — |
-| ↳ | [Quantitative Researcher - PhD Graduate (Asia)](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Researcher - PhD Graduate (Europe)](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Dublin, London +1 | — | — |
-| ↳ | [Quantitative Researcher - PhD Graduate (US)](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) | Greenwich, Houston +2 | USD 235k–300k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Quantitative Research Analyst - University Graduate (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Research Analyst - University Graduate (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/) | Dublin, London +1 | — | — |
-| ↳ | [Quantitative Research Engineer - PhD Graduate (US)](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) | Miami, New York | USD 235k–300k | — |
-| ↳ | [Quantitative Researcher - PhD Graduate (Asia)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Quantitative Researcher - PhD Graduate (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/) | Dublin, London +1 | — | — |
-| ↳ | [Quantitative Researcher - PhD Graduate (US)](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/) | Miami, New York | USD 235k–300k | — |
 | **[Da Vinci](https://quant-scraper.com/companies/davinci)** | [Graduate Quant](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101) | Miami | — | — |
 | ↳ | [Graduate Quant](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4046970101) | Amsterdam | — | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Quantitative Researcher](https://www.drw.com/work-at-drw/listings/quantitative-researcher-3474915) | Singapore | — | — |
@@ -721,11 +720,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---|---|---|---|
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Machine Learning Researcher - PhD: 2027](https://careers.sig.com/jobs/10788) | New York | USD 300k | Jul 23 |
 | ↳ | [Machine Learning Researcher - PhD: 2027](https://careers.sig.com/jobs/10787) | Bala Cynwyd | — | Jul 23 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Machine Learning Researcher - PhD Graduate (Asia)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Machine Learning Researcher - PhD Graduate (US)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/) | Greenwich, Houston +2 | USD 235k–300k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Machine Learning Researcher - PhD Graduate (Asia)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | — |
-| ↳ | [Machine Learning Researcher - PhD Graduate (Europe)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/) | Dublin, London +1 | — | — |
-| ↳ | [Machine Learning Researcher - PhD Graduate (US)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/) | Miami, New York | USD 235k–300k | — |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Machine Learning Researcher - PhD Graduate (US)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/) | Miami, New York | USD 235k–300k | Jul 17 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Machine Learning Researcher - PhD Graduate (US)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/) | Greenwich, Miami +2 | USD 235k–300k | Jul 17 |
+| **Citadel Securities** | [Machine Learning Researcher - PhD Graduate (Europe)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/) | Zurich, Dublin +1 | — | Jul 7 |
+| ↳ | [Machine Learning Researcher - PhD Graduate (Asia)](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | Jul 1 |
+| **Citadel** | [Machine Learning Researcher - PhD Graduate (Asia)](https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/) | Hong Kong, Singapore | — | Jul 1 |
 | **[IMC](https://quant-scraper.com/companies/imc)** | [Graduate Deep Learning Researcher - London](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) | London | — | — |
 | ↳ | [Graduate Deep Learning Researcher - New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | New York | USD 300k | — |
 | **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Machine Learning Researcher](https://www.janestreet.com/join-jane-street/position/8576934002/) | Hong Kong | — | — |
@@ -737,12 +736,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>General</b> (5)</summary>
+<summary><b>General</b> (6)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Sell Side Research Rotational Program: August 2027 Start](https://careers.sig.com/jobs/11434) | New York | USD 140k | Oct 14 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [Fundamental Research Analyst - 2027 Graduate Program - (August Start)](https://jobs.ashbyhq.com/old-mission-capital/872722df-97c6-4f8f-aa45-be0dee3ea88d) | Chicago | USD 125k | Sep 2 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Sector Data Scientist, Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) | New York | USD 120k–125k | Aug 17 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Crypto Researcher (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=7217856) | London | — | Aug 8 |
 | **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [High-Touch Execution Strategist](https://www.squarepoint-capital.com/opportunity-details?id=7340149&gh_jid=7340149) | London | — | — |
 | ↳ | [Junior Commodities Fundamental Analyst](https://www.squarepoint-capital.com/opportunity-details?id=5929246&gh_jid=5929246) | Geneva, London +2 | USD 150k+ | — |
@@ -771,11 +771,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Campus Full Time 2027 - Software Developer - London](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008) | London | — | Sep 1 |
 | **[Eclipse Trading](https://quant-scraper.com/companies/eclipse)** | [Graduate Python Software Developer / 2027 Intake](https://job-boards.greenhouse.io/eclipsetrading/jobs/8729457002) | Hong Kong | — | Aug 24 |
 | **Susquehanna International Group** | [Software Developer Graduate: September 2027 Dublin](https://careers.sig.com/jobs/11337) | Dublin | — | Aug 21 |
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Software Engineer - University Graduate (Europe)](https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/) | London | — | Jul 14 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Software Engineer - University Graduate (Europe)](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/) | London | — | Jul 14 |
 | **[Old Mission Capital](https://quant-scraper.com/companies/oldmission)** | [Software Engineer - 2027 Graduate Program (August Start)](https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d) | Chicago | USD 175k–200k | Jul 13 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Software Engineer - University Graduate (Europe)](https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/) | London | — | — |
-| ↳ | [Software Engineer - University Graduate (US)](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) | Greenwich, Houston +2 | USD 235k–300k | — |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Software Engineer - University Graduate (Europe)](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/) | London | — | — |
-| ↳ | [Software Engineer - University Graduate (US)](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) | Miami, New York | USD 235k–300k | — |
+| **Citadel** | [Software Engineer - University Graduate (US)](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) | Greenwich, Miami +2 | USD 235k–300k | Jul 6 |
+| **Citadel Securities** | [Software Engineer - University Graduate (US)](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) | Miami, New York | USD 235k–300k | Jul 6 |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Software Developer](https://www.drw.com/work-at-drw/listings/software-developer-3472127) | London | — | — |
 | ↳ | [Software Engineer (Commodities Data Team)](https://www.drw.com/work-at-drw/listings/software-engineer-commodities-data-team-3518690) | London | — | — |
 | **[Headlands Technologies](https://quant-scraper.com/companies/headlands)** | [C++ Software Developer - New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) | Amsterdam, Chicago | — | — |
@@ -916,6 +916,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Compliance Analyst - Operations Analyst Program: August 2027 Start](https://careers.sig.com/jobs/11693) | Bala Cynwyd | General | — | Nov 4 |
 | ↳ | [Operations Analyst Program: August 2027 Start](https://careers.sig.com/jobs/11273) | Bala Cynwyd | General | — | Sep 17 |
 | **[AlphaGrep](https://quant-scraper.com/companies/alphagrep)** | [2027 Campus Program](https://job-boards.greenhouse.io/alphagrepsecurities/jobs/8720225002) | Shanghai | General | — | Aug 26 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Recruiting Coordinator](https://www.citadelsecurities.com/careers/details/recruiting-coordinator/) | New York, Miami | General | USD 64k–73k | Mar 16 |
 | **[Radix Trading](https://quant-scraper.com/companies/radix)** | [Quantitative Business Analyst](https://job-boards.greenhouse.io/radixuniversity/jobs/8080910002) | Chicago, New York +1 | Quant | — | — |
 | **[Squarepoint Capital](https://quant-scraper.com/companies/squarepoint)** | [Desk Quant Analyst](https://www.squarepoint-capital.com/opportunity-details?id=2546549&gh_jid=2546549) | London, Madrid +5 | Quant | — | — |
 | ↳ | [Junior Risk Manager](https://www.squarepoint-capital.com/opportunity-details?id=7013910&gh_jid=7013910) | New York, London | General | USD 125k+ | — |
@@ -951,11 +952,13 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
+| **[Citadel](https://quant-scraper.com/companies/citadel)** | [PhD Summit](https://www.citadel.com/careers/programs-and-events/phd-summit/) | London | General | — | Nov 17 |
+| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [PhD Summit](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) | Hong Kong, London +1 | General | — | Nov 17 |
 | **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Virtual Estimathon for EMEA! · Nov 26, 2026](https://docs.google.com/forms/d/e/1FAIpQLSf9nvG2brcZHwKj41CJSAazgCnJcUvB7uTjgGoWeQSvlzdbog/viewform#event-20261126931576431) | — | General | — | Nov 17 |
 | ↳ | [Estimathon at Jagiellonian University · Nov 25, 2026](https://forms.gle/2hUhk9mAVVjscBJV9#event-20261125422672180) | — | General | — | Nov 13 |
 | ↳ | [Guts++ in Warsaw · Nov 24, 2026](https://forms.gle/ZPtMKVPXjCTAiKN58#event-20261124987789056) | — | General | — | Nov 13 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Fellowship Program](https://www.jumptrading.com/fellowship-program) | — | General | — | Nov 10 |
-| **[Citadel](https://quant-scraper.com/companies/citadel)** | [Citadel Associate Program](https://www.citadel.com/careers/investing/citadel-associate-program/) | New York | General | — | Nov 10 |
+| **Citadel** | [Citadel Associate Program](https://www.citadel.com/careers/investing/citadel-associate-program/) | New York | General | — | Nov 10 |
 | ↳ | [Conference Travel Grant](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/) | — | General | — | Nov 10 |
 | ↳ | [Datathon](https://www.citadel.com/careers/programs-and-events/datathons/) | Miami | General | — | Nov 10 |
 | ↳ | [Discover Citadel](https://www.citadel.com/careers/programs-and-events/discover-citadel/) | New York, London +2 | General | — | Nov 10 |
@@ -964,7 +967,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [GQS PhD Fellowship](https://www.citadel.com/careers/programs-and-events/gqs-phd-fellowship/) | — | General | — | Nov 10 |
 | ↳ | [Terminal](https://www.citadel.com/careers/programs-and-events/terminal/) | — | General | — | Nov 10 |
 | ↳ | [Trading Invitational](https://www.citadel.com/careers/programs-and-events/the-trading-invitational/) | — | General | — | Nov 10 |
-| **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [Citadel Securities Quant Invitational](https://www.citadelsecurities.com/careers/programs-and-events/the-citadel-securities-quant-invitational/) | London | Quant | — | Nov 10 |
+| **Citadel Securities** | [Citadel Securities Quant Invitational](https://www.citadelsecurities.com/careers/programs-and-events/the-citadel-securities-quant-invitational/) | London | Quant | — | Nov 10 |
 | ↳ | [Citadel Securities Spark](https://www.citadelsecurities.com/careers/programs-and-events/citadel-securities-spark/) | New York, Miami +1 | General | — | Nov 10 |
 | ↳ | [Conference Travel Grant](https://www.citadelsecurities.com/careers/programs-and-events/conference-travel-grant/) | — | General | — | Nov 10 |
 | ↳ | [Datathon](https://www.citadelsecurities.com/careers/programs-and-events/datathons/) | Miami | General | — | Nov 10 |
@@ -981,8 +984,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Optiver](https://quant-scraper.com/companies/optiver)** | [NeurIPS Conference · Dec 6, 2026](https://www.optiver.com/join-us/events/neurips/) | Sydney | General | — | Nov 10 |
 | ↳ | [Paris Coffee Chats · Nov 27, 2026](https://www.optiver.com/join-us/events/paris-coffee-chats/) | Paris | General | — | Nov 10 |
 | **[Maven Securities](https://quant-scraper.com/companies/maven)** | [Emerging Talent: Register Your Interest](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4751895) | London, Chicago +1 | General | — | Nov 9 |
-| **Citadel** | [Citadel Securities 2027 US PhD Summit](https://www.citadel.com/careers/details/citadel-securities-2027-us-phd-summit/) | Miami | General | — | Nov 9 |
-| **Citadel Securities** | [Citadel Securities 2027 US PhD Summit](https://www.citadelsecurities.com/careers/details/citadel-securities-2027-us-phd-summit/) | Miami | General | — | Nov 9 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Join our Man Technology Talent Community in Sofia](https://job-boards.eu.greenhouse.io/mangroup/jobs/4611464101) | Sofia | General | — | Nov 6 |
 | **[Hudson River Trading](https://quant-scraper.com/companies/hrt)** | [Campus Talent Community](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/3432773) | New York, Chicago +5 | General | — | Oct 30 |
 | ↳ | [HRT Talent Community](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/3530960) | New York, Chicago +5 | General | — | Oct 30 |
