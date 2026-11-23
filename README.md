@@ -4,14 +4,14 @@ Every open internship and graduate role at 54 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**426** internships · **229** graduate roles · **53** programmes & insight weeks · updated 2026-11-22 22:28 UTC
+**426** internships · **229** graduate roles · **52** programmes & insight weeks · updated 2026-11-23 03:43 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Trading | [63](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [47](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [33](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [135](https://quant-scraper.com/quant?for=students&discipline=trading) |
-| Quantitative research | [111](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [77](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [222](https://quant-scraper.com/quant?for=students&discipline=research) |
+| Quantitative research | [111](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [76](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [221](https://quant-scraper.com/quant?for=students&discipline=research) |
 | Software & technology | [105](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [87](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [64](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [229](https://quant-scraper.com/quant?for=students&discipline=technology) |
 | Operations, risk & other | [65](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [37](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [29](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [122](https://quant-scraper.com/quant?for=students&discipline=other) |
 
@@ -29,9 +29,9 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
   - [Software & technology](#software--technology--graduate-roles) (90)
   - [Operations, risk & other](#operations-risk--other--graduate-roles) (13)
-- [Programmes & insight weeks](#programmes--insight-weeks) (53)
+- [Programmes & insight weeks](#programmes--insight-weeks) (52)
   - [Trading](#trading--programmes--insight-weeks) (4)
-  - [Quantitative research](#quantitative-research--programmes--insight-weeks) (3)
+  - [Quantitative research](#quantitative-research--programmes--insight-weeks) (2)
   - [Software & technology](#software--technology--programmes--insight-weeks) (2)
   - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (44)
 
@@ -931,7 +931,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 |---|---|---|---|---|---|
 | **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Visiting Researcher](https://www.janestreet.com/join-jane-street/programs-and-events/visiting-researcher/) | New York, London +1 | General | — | Nov 10 |
 | ↳ | [Visiting Researcher Program: Type Systems](https://www.janestreet.com/join-jane-street/programs-and-events/visiting-researcher-program-type-systems/) | New York, London | Systems | — | Nov 10 |
-| **[Optiver](https://quant-scraper.com/companies/optiver)** | [AI, Research & Trading Talk · Nov 26, 2026](https://www.optiver.com/join-us/events/paris-ai-research-trading-talk/) | Paris | AI / ML | — | Nov 10 |
 
 ### Software & technology — programmes & insight weeks
 
