@@ -4,14 +4,14 @@ Every open internship and graduate role at 54 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**418** internships · **228** graduate roles · **47** programmes & insight weeks · updated 2026-11-26 00:59 UTC
+**415** internships · **228** graduate roles · **47** programmes & insight weeks · updated 2026-11-26 15:20 UTC
 
 ## Where the roles are
 
 | | Americas | Europe, Middle East & Africa | Asia Pacific | All |
 |---|---:|---:|---:|---:|
 | Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [45](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [33](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [132](https://quant-scraper.com/quant?for=students&discipline=trading) |
-| Quantitative research | [110](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [75](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [68](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [220](https://quant-scraper.com/quant?for=students&discipline=research) |
+| Quantitative research | [110](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [73](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [217](https://quant-scraper.com/quant?for=students&discipline=research) |
 | Software & technology | [106](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [88](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [61](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [228](https://quant-scraper.com/quant?for=students&discipline=technology) |
 | Operations, risk & other | [64](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [34](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [27](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [113](https://quant-scraper.com/quant?for=students&discipline=other) |
 
@@ -19,9 +19,9 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 ## Contents
 
-- [Internships](#internships) (418)
+- [Internships](#internships) (415)
   - [Trading](#trading--internships) (80)
-  - [Quantitative research](#quantitative-research--internships) (141)
+  - [Quantitative research](#quantitative-research--internships) (138)
   - [Software & technology](#software--technology--internships) (137)
   - [Operations, risk & other](#operations-risk--other--internships) (60)
 - [Graduate roles](#graduate-roles) (228)
@@ -125,7 +125,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 ### Quantitative research — internships
 
 <details open>
-<summary><b>Quant</b> (93)</summary>
+<summary><b>Quant</b> (92)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
@@ -197,7 +197,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Quantitative Research Internship - PhD: Summer 2027](https://careers.sig.com/jobs/10817) | Bala Cynwyd | — | Apr 21 |
 | **Citadel Securities** | [Quantitative Research - PhD Intern (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-phd-intern-australia/) | Sydney | — | Feb 17 |
 | ↳ | [Quantitative Research Analyst Intern - BS/MS (Australia)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-australia/) | Sydney | — | Feb 10 |
-| **Millennium** | [Off-Cycle Trading Intern - Quantitative Researcher, 2026, Shanghai](https://campusjobs.mlp.com/careers/job/755953958409) | Shanghai | — | Jan 23 |
 | **Susquehanna International Group** | [Quantitative Research Internship - PhD](https://careers.sig.com/jobs/10429) | Sydney | — | Jan 5 |
 | **[Akuna Capital](https://quant-scraper.com/companies/akuna)** | [Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago | USD 145k+ | — |
 | **[DRW](https://quant-scraper.com/companies/drw)** | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) | Chicago, New York | USD 250k–300k | — |
@@ -276,11 +275,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 </details>
 
 <details>
-<summary><b>General</b> (22)</summary>
+<summary><b>General</b> (20)</summary>
 
 | Company | Role | Location | Salary | Posted |
 |---|---|---|---|---|
-| **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Economist Intern](https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002) | Singapore | — | Nov 24 |
+| **[Point72](https://quant-scraper.com/companies/point72)** | [2027 Economist Intern](https://boards.greenhouse.io/point72/jobs/8932491002?gh_jid=8932491002) | Singapore | — | Nov 25 |
 | ↳ | [2027 Asia Economist Intern](https://boards.greenhouse.io/point72/jobs/8959709002?gh_jid=8959709002) | Singapore | — | Nov 24 |
 | **[Schonfeld](https://quant-scraper.com/companies/schonfeld)** | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York | USD 100k–110k | Nov 23 |
 | **[Susquehanna International Group](https://quant-scraper.com/companies/sig)** | [Hong Kong Equity Research Discovery Program: April 2027](https://careers.sig.com/jobs/13202) | Hong Kong | — | Nov 16 |
@@ -299,8 +298,6 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Campus Crypto Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7362318) | London | — | Aug 8 |
 | **Voleon** | [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) | Berkeley, New York | — | Aug 7 |
 | **Susquehanna International Group** | [Discovery Program: Capital Markets (On-site)](https://careers.sig.com/jobs/11259) | New York | — | Aug 6 |
-| ↳ | [Equity Research Internship: Summer 2027](https://careers.sig.com/jobs/11085) | London | — | Jul 17 |
-| ↳ | [Equity Research Analyst Internship: Summer 2027](https://careers.sig.com/jobs/10876) | Dublin | — | Jul 17 |
 | **[WorldQuant](https://quant-scraper.com/companies/worldquant)** | [Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) | Beijing, Shanghai | — | May 4 |
 
 </details>
