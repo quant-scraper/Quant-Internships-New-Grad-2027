@@ -4,7 +4,7 @@ Every open internship and graduate role at 54 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**415** internships · **228** graduate roles · **47** programmes & insight weeks · updated 2026-11-26 15:20 UTC
+**415** internships · **228** graduate roles · **46** programmes & insight weeks · updated 2026-11-27 01:01 UTC
 
 ## Where the roles are
 
@@ -13,7 +13,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | Trading | [61](https://quant-scraper.com/quant?for=students&discipline=trading&region=AMER) | [45](https://quant-scraper.com/quant?for=students&discipline=trading&region=EMEA) | [33](https://quant-scraper.com/quant?for=students&discipline=trading&region=APAC) | [132](https://quant-scraper.com/quant?for=students&discipline=trading) |
 | Quantitative research | [110](https://quant-scraper.com/quant?for=students&discipline=research&region=AMER) | [73](https://quant-scraper.com/quant?for=students&discipline=research&region=EMEA) | [67](https://quant-scraper.com/quant?for=students&discipline=research&region=APAC) | [217](https://quant-scraper.com/quant?for=students&discipline=research) |
 | Software & technology | [106](https://quant-scraper.com/quant?for=students&discipline=technology&region=AMER) | [88](https://quant-scraper.com/quant?for=students&discipline=technology&region=EMEA) | [61](https://quant-scraper.com/quant?for=students&discipline=technology&region=APAC) | [228](https://quant-scraper.com/quant?for=students&discipline=technology) |
-| Operations, risk & other | [64](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [34](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [27](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [113](https://quant-scraper.com/quant?for=students&discipline=other) |
+| Operations, risk & other | [64](https://quant-scraper.com/quant?for=students&discipline=other&region=AMER) | [34](https://quant-scraper.com/quant?for=students&discipline=other&region=EMEA) | [27](https://quant-scraper.com/quant?for=students&discipline=other&region=APAC) | [112](https://quant-scraper.com/quant?for=students&discipline=other) |
 
 <sub>A role open in several regions counts once in each.</sub>
 
@@ -29,11 +29,11 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
   - [Quantitative research](#quantitative-research--graduate-roles) (77)
   - [Software & technology](#software--technology--graduate-roles) (89)
   - [Operations, risk & other](#operations-risk--other--graduate-roles) (13)
-- [Programmes & insight weeks](#programmes--insight-weeks) (47)
+- [Programmes & insight weeks](#programmes--insight-weeks) (46)
   - [Trading](#trading--programmes--insight-weeks) (3)
   - [Quantitative research](#quantitative-research--programmes--insight-weeks) (2)
   - [Software & technology](#software--technology--programmes--insight-weeks) (2)
-  - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (40)
+  - [Operations, risk & other](#operations-risk--other--programmes--insight-weeks) (39)
 
 ## Internships
 
@@ -930,11 +930,10 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 
 | Company | Role | Location | Focus | Salary | Posted |
 |---|---|---|---|---|---|
-| **[Flow Traders](https://quant-scraper.com/companies/flowtraders)** | [Talent Pool: Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) | New York | Quant | — | Nov 25 |
+| **[Flow Traders](https://quant-scraper.com/companies/flowtraders)** | [Talent Pool: Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) | New York | Quant | — | Nov 26 |
 | **[Man Group](https://quant-scraper.com/companies/mangroup)** | [Join our Man Technology Talent Community in Sofia](https://job-boards.eu.greenhouse.io/mangroup/jobs/4611464101) | Sofia | General | — | Nov 24 |
 | **[Citadel](https://quant-scraper.com/companies/citadel)** | [PhD Summit](https://www.citadel.com/careers/programs-and-events/phd-summit/) | London | General | — | Nov 17 |
 | **[Citadel Securities](https://quant-scraper.com/companies/citsec)** | [PhD Summit](https://www.citadelsecurities.com/careers/programs-and-events/phd-summit/) | Hong Kong, London +1 | General | — | Nov 17 |
-| **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Virtual Estimathon for EMEA! · Nov 26, 2026](https://docs.google.com/forms/d/e/1FAIpQLSf9nvG2brcZHwKj41CJSAazgCnJcUvB7uTjgGoWeQSvlzdbog/viewform#event-20261126931576431) | — | General | — | Nov 17 |
 | **[Jump Trading](https://quant-scraper.com/companies/jump)** | [Fellowship Program](https://www.jumptrading.com/fellowship-program) | — | General | — | Nov 10 |
 | **Citadel** | [Citadel Associate Program](https://www.citadel.com/careers/investing/citadel-associate-program/) | New York | General | — | Nov 10 |
 | ↳ | [Conference Travel Grant](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/) | — | General | — | Nov 10 |
@@ -954,7 +953,7 @@ From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you
 | ↳ | [Trading Invitational](https://www.citadelsecurities.com/careers/programs-and-events/the-trading-invitational/) | — | General | — | Nov 10 |
 | **[Da Vinci](https://quant-scraper.com/companies/davinci)** | [UK Career Fairs](https://davincitrading.com/cambridge-university-tech-careers-in-finance-2/) | United Kingdom (anywhere) | General | — | Nov 10 |
 | ↳ | [US Career Fairs](https://davincitrading.com/us-career-fairs/) | United States (anywhere) | General | — | Nov 10 |
-| **Jane Street** | [Bridge](https://www.janestreet.com/join-jane-street/programs-and-events/bridge/) | London | General | — | Nov 10 |
+| **[Jane Street](https://quant-scraper.com/companies/janestreet)** | [Bridge](https://www.janestreet.com/join-jane-street/programs-and-events/bridge/) | London | General | — | Nov 10 |
 | ↳ | [FTTP](https://www.janestreet.com/join-jane-street/programs-and-events/fttp/) | London, New York +1 | General | — | Nov 10 |
 | ↳ | [INSIGHT](https://www.janestreet.com/join-jane-street/programs-and-events/insight/) | London | General | — | Nov 10 |
 | ↳ | [SEE](https://www.janestreet.com/join-jane-street/programs-and-events/see/) | London | General | — | Nov 10 |
