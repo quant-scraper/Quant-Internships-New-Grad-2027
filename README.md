@@ -4,7 +4,7 @@ Every open internship and graduate role at 54 quantitative trading firms, hedge 
 
 From **[QuantScraper](https://quant-scraper.com/quant?for=students)**, where you can filter these by city, firm and focus, and see experienced roles too. Also: [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles) · [2027 AI/ML Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles).
 
-**412** internships · **228** graduate roles · **45** programmes & insight weeks · updated 2026-11-28 00:32 UTC
+**412** internships · **228** graduate roles · **45** programmes & insight weeks · updated 2026-11-28 14:15 UTC
 
 ## Where the roles are
 
